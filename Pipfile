@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+pytest-tornasync = "*"
+
+[packages]
+tensorflow = "*"
+scikit-learn = "*"
+pandas = "*"
+numpy = "*"
+flask = "*"
+jsonschema = "*"
+faker = "*"
+coverage = "*"
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,1001 @@
+,city1,city2,isp1,isp2,country1,country2,continent1,continent2,target
+0,Rwamagana,Bridgeport,Ramirez and Sons,Smith Ltd,RW,US,Africa,America,43.613359758051885
+1,Liaoyang,Cavaillon,Williams-Chen,Noble-Cohen,CN,FR,Asia,Europe,97.92946570099326
+2,Hoxtolgay,Foshan,"Wilkinson, Walls and Preston",Cole LLC,CN,CN,Asia,Asia,20.633594036426373
+3,Cavaillon,Schwalmtal,Noble-Cohen,"Owens, Griffin and Martinez",FR,DE,Europe,Europe,16.510379604128456
+4,Lanciano,Itacoatiara,Ruiz-Torres,"Clark, Sanchez and Garcia",IT,BR,Europe,America,54.500393252808706
+5,Scarsdale,Esmeraldas,Jones LLC,Cervantes PLC,US,BR,America,America,72.20905785637173
+6,Halstenbek,Pilar,Foley and Sons,Shields-Vasquez,DE,PH,Europe,Asia,44.70082771079458
+7,Bonoua,Brentwood Estates,Jones LLC,"Vasquez, Kline and Burnett",CI,US,Africa,America,88.4824280771428
+8,Kenda,Halstenbek,"Gregory, Morris and Brennan",Williams-Chen,IN,DE,Asia,Europe,76.13994862888005
+9,Gariadhar,Casa Blanca,"Gregory, Morris and Brennan","Clark, Sanchez and Garcia",IN,MX,Asia,America,62.794363846412125
+10,Cuenca,Minas de Marcona,"West, King and Wilkerson",Jones LLC,EC,PE,America,America,85.17925324967169
+11,Gua Musang,Kafanchan,Reeves Ltd,"Ray, Simpson and West",MY,NG,Asia,Africa,27.611333990100885
+12,Lanciano,Muskogee,"Johnson, Brady and Hopkins",Walker Group,IT,US,Europe,America,28.302112556930837
+13,Porterville,Muskogee,Thompson-Contreras,"Johnson, Brady and Hopkins",US,US,America,America,84.68895963369276
+14,Tucano,Kenda,Aguilar PLC,Holden-Gutierrez,BR,IN,America,Asia,20.332584853632298
+15,Esmeraldas,Minas de Marcona,Cole-Diaz,"Gregory, Morris and Brennan",BR,PE,America,America,10.048174411283794
+16,Temse,Kafanchan,Friedman-Gonzalez,Hill PLC,BE,NG,Europe,Africa,75.66067710650857
+17,Weimar,Acaponeta,Holden-Gutierrez,Williams-Chen,DE,MX,Europe,America,18.59445350512743
+18,Namerikawa,Hechingen,Thompson-Contreras,"Jones, Gonzalez and Thompson",JP,DE,Asia,Europe,11.610601648352926
+19,Perugia,Santa Catalina,Erickson-Anderson,"Vasquez, Kline and Burnett",IT,PH,Europe,Asia,44.52731575425864
+20,Perugia,Taozhuang,"Swanson, Freeman and White",Rosales and Sons,IT,CN,Europe,Asia,11.268225310238888
+21,Pilar,Tucano,"Doyle, Davenport and Bowman",Hawkins-Sanchez,PH,BR,Asia,America,3.04717308037995
+22,Albstadt,Kireyevsk,Cervantes PLC,Whitaker-Guzman,DE,RU,Europe,Europe,86.65742610987196
+23,Ushuaia,Hechingen,Aguilar PLC,Whitaker-Guzman,AR,DE,America,Europe,68.77333492977314
+24,Minas de Marcona,Liaoyang,"Vasquez, Kline and Burnett","Doyle, Davenport and Bowman",PE,CN,America,Asia,79.25990872900707
+25,Catania,Paidha,Noble-Cohen,"Owens, Griffin and Martinez",IT,UG,Europe,Africa,48.8487873347563
+26,Foshan,Barnet,Fernandez-Norris,Ramirez and Sons,CN,GB,Asia,Europe,1.4643537193658407
+27,Schwalmtal,Lakewood,"Owens, Griffin and Martinez",Wilson Inc,DE,US,Europe,America,36.40918958800109
+28,Bavly,East Jerusalem,"Johnson, Brady and Hopkins",Young Inc,RU,PS,Europe,Asia,1.7988422079135757
+29,Albstadt,Gua Musang,"Baker, Lyons and Rangel",Harris Ltd,DE,MY,Europe,Asia,58.16782309381353
+30,Pilar,Binnish,Young Inc,"Jones, Gonzalez and Thompson",PH,SY,Asia,Asia,66.5125310216421
+31,Okahandja,Rwamagana,Aguilar PLC,Noble-Cohen,NA,RW,Africa,Africa,68.77285489837445
+32,Tucano,Nkpor,Davis LLC,Wilson Inc,BR,NG,America,Africa,82.93413726963297
+33,Cuenca,Foshan,Reeves Ltd,Walker Group,EC,CN,America,Asia,93.27905097890154
+34,Acaponeta,Opportunity,"Diaz, Peterson and Copeland",Brooks-Jones,MX,US,America,America,51.25783871857853
+35,Kaukauna,Liaoyang,Cervantes PLC,"Gregory, Morris and Brennan",US,CN,America,Asia,32.404493569548784
+36,Kafanchan,East Dereham,Galvan LLC,"Vasquez, Kline and Burnett",NG,GB,Africa,Europe,76.33625000229121
+37,Tucano,Tiruppuvanam,Wilson Inc,Hawkins-Sanchez,BR,IN,America,Asia,34.15309831983792
+38,Pilar,Sathyamangalam,"Vasquez, Kline and Burnett",Williams-Chen,PH,IN,Asia,Asia,60.7459340269343
+39,Daud Khel,Weimar,Walker-Flores,Shields-Vasquez,PK,DE,Asia,Europe,45.291812842426374
+40,Longview,Cavaillon,Young Inc,Ramirez and Sons,US,FR,America,Europe,56.23870383772528
+41,Lakewood,Daud Khel,"Clark, Sanchez and Garcia","Swanson, Freeman and White",US,PK,America,Asia,92.40710680077004
+42,Acaponeta,Dawei,Thompson-Contreras,Whitaker-Guzman,MX,MM,America,Asia,58.91551904224331
+43,Cavaillon,Barnet,Orr Group,Santana-Curtis,FR,GB,Europe,Europe,55.68587061669976
+44,Ushuaia,Minas de Marcona,Shields-Vasquez,"Jones, Mcpherson and Perez",AR,PE,America,America,34.716087637954196
+45,Albstadt,Parkent,Whitaker-Guzman,Harris Ltd,DE,UZ,Europe,Asia,96.8863014370877
+46,Albstadt,Jiangyan,"Baker, Lyons and Rangel",Harris Ltd,DE,CN,Europe,Asia,32.50692779186869
+47,Dawei,Eastwood,Brooks-Jones,Holden-Gutierrez,MM,AU,Asia,Australia,60.925924504404016
+48,Acaponeta,Temse,Williams-Chen,Hill PLC,MX,BE,America,Europe,91.59728784553688
+49,Perugia,Yablonovskiy,Wang-Turner,Cervantes PLC,IT,RU,Europe,Europe,67.14720475031929
+50,Tupiza,Taozhuang,Cole-Diaz,Reeves Ltd,BO,CN,America,Asia,25.107280348340144
+51,Liaoyang,North Lauderdale,Bowers-Allen,"Lewis, Sanchez and Harrison",CN,US,Asia,America,34.883811124743836
+52,Severodvinsk,Esmeraldas,Mccullough Group,Humphrey-Goodwin,RU,BR,Europe,America,30.558007254853216
+53,Binnish,Lakewood,Orr Group,"Swanson, Freeman and White",SY,US,Asia,America,82.2665456264951
+54,Marau,Severodvinsk,Galvan LLC,Thompson-Contreras,BR,RU,America,Europe,72.12339895837788
+55,Randudongkal,Kaukauna,Holden-Gutierrez,"Huber, Lopez and Adams",ID,US,Asia,America,77.44732691103361
+56,Casa Blanca,Hechingen,Fernandez-Norris,"Ray, Simpson and West",MX,DE,America,Europe,94.80193537788854
+57,Sar-e Pul,Tucano,Fernandez-Norris,Novak-Brown,AF,BR,Asia,America,36.25202982920656
+58,Perugia,Guyong,Wang-Turner,Aguilar PLC,IT,PH,Europe,Asia,23.72620864115157
+59,Nova Xavantina,Utica,Wilson Inc,Jones LLC,BR,US,America,America,82.42022519004776
+60,Minas de Marcona,Casa Blanca,"Doyle, Davenport and Bowman","Gregory, Morris and Brennan",PE,MX,America,America,24.499639778137738
+61,North Lauderdale,Mianwali,Harris Ltd,Galvan LLC,US,PK,America,Asia,11.021176406702471
+62,Porterville,Opportunity,Reeves Ltd,"Ray, Simpson and West",US,US,America,America,23.77768539672932
+63,Yablonovskiy,Pilar,Reyes-Mitchell,"Torres, Jensen and Vega",RU,PH,Europe,Asia,39.22204863489429
+64,Randudongkal,Pilar,"Doyle, Davenport and Bowman",Reeves Ltd,ID,PH,Asia,Asia,74.46791130670083
+65,Marau,Scarsdale,Hill PLC,Williams-Chen,BR,US,America,America,61.351161638882104
+66,Rwamagana,Acaponeta,Novak-Brown,Holden-Gutierrez,RW,MX,Africa,America,1.359477273409515
+67,Sar-e Pul,Utica,Reeves Ltd,Davis LLC,AF,US,Asia,America,46.71206676837137
+68,High Wycombe,Barnet,"Ray, Simpson and West",Santana-Curtis,GB,GB,Europe,Europe,51.469099525432846
+69,Itacoatiara,Aklera,Cole LLC,Jones LLC,BR,IN,America,Asia,61.39643024730793
+70,Itacoatiara,Dawei,Shields-Vasquez,Erickson-Anderson,BR,MM,America,Asia,60.54192655196778
+71,Hueytown,Parkent,Orr Group,Jones LLC,US,UZ,America,Asia,84.78575043098957
+72,Gua Musang,Kenda,"Wilkinson, Walls and Preston",Whitaker-Guzman,MY,IN,Asia,Asia,43.804610235432826
+73,Acaponeta,Namerikawa,Friedman-Gonzalez,"Vasquez, Kline and Burnett",MX,JP,America,Asia,28.44819166890855
+74,Liaoyang,Casa Blanca,Hill PLC,"Diaz, Peterson and Copeland",CN,MX,Asia,America,83.59699475743908
+75,Brentwood Estates,Bavly,Rosales and Sons,Wang-Turner,US,RU,America,Europe,77.49913391516309
+76,Kaukauna,Gariadhar,Wang-Turner,Humphrey-Goodwin,US,IN,America,Asia,90.86069489672305
+77,Temse,Nova Xavantina,"Mcguire, Knapp and Nguyen","Vasquez, Kline and Burnett",BE,BR,Europe,America,83.14896016146847
+78,Zacoalco de Torres,Catania,Fernandez-Norris,Harris Ltd,MX,IT,America,Europe,11.1415358411878
+79,Albstadt,Collinwood,"Jones, Gonzalez and Thompson",Friedman-Gonzalez,DE,US,Europe,America,9.395179660680897
+80,Itacoatiara,Lebanon,Whitaker-Guzman,Reyes-Mitchell,BR,US,America,America,41.91485086545453
+81,North Lauderdale,Utica,"Doyle, Davenport and Bowman",Lara-Palmer,US,US,America,America,86.4495106852164
+82,Minas de Marcona,Temse,"Huber, Lopez and Adams",Hawkins-Sanchez,PE,BE,America,Europe,69.7392760504584
+83,Pontevedra,Esmeraldas,"Vasquez, Kline and Burnett",Friedman-Gonzalez,AR,BR,America,America,5.84295763262388
+84,Houthalen,East Jerusalem,Thompson-Contreras,Harris Ltd,BE,PS,Europe,Asia,26.267818059005954
+85,Brentwood Estates,Bridgeport,"Gregory, Morris and Brennan","Owens, Griffin and Martinez",US,US,America,America,53.980678588078604
+86,Vernon,Eastwood,Cole LLC,Jones LLC,CA,AU,America,Australia,66.83339769943245
+87,Okahandja,Tucano,Young Inc,"Vasquez, Kline and Burnett",NA,BR,Africa,America,27.376115017934133
+88,Chharra,Namerikawa,"Wilkinson, Walls and Preston","Ray, Simpson and West",IN,JP,Asia,Asia,54.65249921842997
+89,Mianwali,Daud Khel,"Phillips, Olson and Stewart",Cole LLC,PK,PK,Asia,Asia,90.33159677768965
+90,Bhuban,Lower Earley,Reyes-Mitchell,Jones LLC,IN,GB,Asia,Europe,89.41104599850786
+91,Muskogee,Tiruppuvanam,Shields-Vasquez,Cervantes PLC,US,IN,America,Asia,62.75187317394617
+92,Roi Et,Lower Earley,Mccullough Group,Holden-Gutierrez,TH,GB,Asia,Europe,37.56661590189506
+93,Liaoyang,Muskogee,"Torres, Jensen and Vega","Gregory, Morris and Brennan",CN,US,Asia,America,70.12667758533918
+94,Collinwood,Hoxtolgay,Ruiz-Torres,Cole LLC,US,CN,America,Asia,21.902017243330697
+95,Lebanon,Sillanwali,Noble-Cohen,Aguilar PLC,US,PK,America,Asia,2.2741258996872626
+96,Tiruppuvanam,Santa Catalina,"Jones, Gonzalez and Thompson",Smith Ltd,IN,PH,Asia,Asia,28.031252029240495
+97,Weimar,Esmeraldas,"West, King and Wilkerson",Davis LLC,DE,BR,Europe,America,27.819267025637295
+98,Binnish,Kaukauna,Whitaker-Guzman,Fernandez-Norris,SY,US,Asia,America,43.64145421097775
+99,Lanciano,Pilar,"Johnson, Brady and Hopkins","Phillips, Olson and Stewart",IT,PH,Europe,Asia,34.43257054569278
+100,Marau,Hoxtolgay,Reyes-Mitchell,Noble-Cohen,BR,CN,America,Asia,53.23504172947822
+101,Minas de Marcona,Mianwali,"Huber, Lopez and Adams",Ruiz-Torres,PE,PK,America,Asia,17.39050494373081
+102,Casa Blanca,Lower Earley,"Johnson, Brady and Hopkins",Erickson-Anderson,MX,GB,America,Europe,18.331902661029698
+103,High Wycombe,Tupiza,"Gregory, Morris and Brennan",Hawkins-Sanchez,GB,BO,Europe,America,64.48285123799889
+104,Liaoyang,Opportunity,Hawkins-Sanchez,Harris Ltd,CN,US,Asia,America,24.62092548592748
+105,Pontevedra,Hueytown,Whitaker-Guzman,"Diaz, Peterson and Copeland",AR,US,America,America,61.73622200474055
+106,Houthalen,Pilar,"Jones, Gonzalez and Thompson",Rosales and Sons,BE,PH,Europe,Asia,29.61262766027729
+107,Zacoalco de Torres,Utica,Ramirez and Sons,Novak-Brown,MX,US,America,America,32.84519453531897
+108,Lakewood,Nkpor,Fernandez-Norris,Friedman-Gonzalez,US,NG,America,Africa,42.91687211929591
+109,Mianwali,Utica,"Ray, Simpson and West",Young Inc,PK,US,Asia,America,91.25562496416516
+110,Columbia Heights,Dawei,Hill PLC,Whitaker-Guzman,US,MM,America,Asia,6.253349225370219
+111,Scarsdale,Santa Catalina,Davis LLC,Reyes-Mitchell,US,PH,America,Asia,76.67846957458455
+112,Porterville,Halstenbek,Walker Group,Davis LLC,US,DE,America,Europe,73.17506537336436
+113,Gua Musang,Bridgeport,Walker-Flores,"Swanson, Freeman and White",MY,US,Asia,America,89.5298867064524
+114,Hechingen,Liaoyang,Davis LLC,"West, King and Wilkerson",DE,CN,Europe,Asia,26.83064410913082
+115,Lakewood,Okahandja,Santana-Curtis,"Wilkinson, Walls and Preston",US,NA,America,Africa,78.23037480758983
+116,Itacoatiara,Perugia,Noble-Cohen,Walker-Flores,BR,IT,America,Europe,11.176139393199803
+117,Bhuban,Weimar,Bowers-Allen,Reeves Ltd,IN,DE,Asia,Europe,92.11641002614115
+118,Les Olives,Muskogee,"Lewis, Sanchez and Harrison","Baker, Lyons and Rangel",FR,US,Europe,America,21.664208031224952
+119,Kireyevsk,Tucano,Lara-Palmer,"Jones, Mcpherson and Perez",RU,BR,Europe,America,99.96653720190449
+120,Tiruppuvanam,Kireyevsk,Novak-Brown,"Diaz, Peterson and Copeland",IN,RU,Asia,Europe,42.25876014748158
+121,Itacoatiara,Roi Et,Walker Group,Foley and Sons,BR,TH,America,Asia,65.94452797099429
+122,Hechingen,Jiangyan,Davis LLC,Mccullough Group,DE,CN,Europe,Asia,17.0449228146064
+123,Tupiza,Chharra,"Clark, Sanchez and Garcia","Wilkinson, Walls and Preston",BO,IN,America,Asia,36.453207381361985
+124,Namerikawa,Tupiza,Young Inc,Holden-Gutierrez,JP,BO,Asia,America,37.6295176315287
+125,Lower Earley,Schererville,Cole LLC,"Lewis, Sanchez and Harrison",GB,US,Europe,America,21.433798628799096
+126,Binnish,Daud Khel,Young Inc,"Mcguire, Knapp and Nguyen",SY,PK,Asia,Asia,18.348423527722048
+127,Lagos,Hueytown,Reyes-Mitchell,Brooks-Jones,NG,US,Africa,America,71.9920513521175
+128,Longview,Lanciano,Walker Group,Young Inc,US,IT,America,Europe,53.652570151802884
+129,Halstenbek,Houthalen,"Owens, Griffin and Martinez",Orr Group,DE,BE,Europe,Europe,72.0833012400216
+130,Aklera,Hueytown,"Swanson, Freeman and White",Novak-Brown,IN,US,Asia,America,58.14210946934831
+131,Porterville,North Lauderdale,Friedman-Gonzalez,Hill PLC,US,US,America,America,59.05962654090009
+132,Bhuban,Halstenbek,Walker-Flores,Williams-Chen,IN,DE,Asia,Europe,34.71108669407379
+133,Cuenca,East Jerusalem,Brooks-Jones,Cole-Diaz,EC,PS,America,Asia,36.78493406073559
+134,Bridgeport,Binnish,Humphrey-Goodwin,"Swanson, Freeman and White",US,SY,America,Asia,88.05653775741898
+135,Rwamagana,Kireyevsk,Walker-Flores,Galvan LLC,RW,RU,Africa,Europe,62.80714786774819
+136,Kireyevsk,Lakewood,Walker Group,"Doyle, Davenport and Bowman",RU,US,Europe,America,71.04836859028984
+137,High Wycombe,Weimar,"Owens, Griffin and Martinez","Johnson, Brady and Hopkins",GB,DE,Europe,Europe,24.08534475166364
+138,Cavaillon,Albstadt,"Torres, Jensen and Vega","Phillips, Olson and Stewart",FR,DE,Europe,Europe,81.91834543614952
+139,Porterville,Binnish,"Huber, Lopez and Adams",Walker-Flores,US,SY,America,Asia,41.218867624668476
+140,Namerikawa,Paidha,Novak-Brown,"Jones, Gonzalez and Thompson",JP,UG,Asia,Africa,99.7226809617629
+141,Mianwali,Weimar,Cole LLC,"Jones, Mcpherson and Perez",PK,DE,Asia,Europe,13.49181662711414
+142,Esmeraldas,Porterville,"Jones, Gonzalez and Thompson",Cervantes PLC,BR,US,America,America,64.5514516904273
+143,Kireyevsk,High Wycombe,Shields-Vasquez,"Vasquez, Kline and Burnett",RU,GB,Europe,Europe,28.290924656677397
+144,Lebanon,East Dereham,Hill PLC,"Ray, Simpson and West",US,GB,America,Europe,25.17256828372566
+145,Hechingen,Les Olives,Smith Ltd,"Phillips, Olson and Stewart",DE,FR,Europe,Europe,49.38549378176235
+146,Okahandja,Brentwood Estates,Noble-Cohen,"Swanson, Freeman and White",NA,US,Africa,America,84.60998098703664
+147,Weimar,Lanciano,"Jones, Gonzalez and Thompson",Young Inc,DE,IT,Europe,Europe,87.07465933102685
+148,Namerikawa,Lower Earley,Hill PLC,Friedman-Gonzalez,JP,GB,Asia,Europe,74.80242289894004
+149,Aklera,High Wycombe,Galvan LLC,Reyes-Mitchell,IN,GB,Asia,Europe,87.00147359023347
+150,Lanciano,Vernon,"Jones, Gonzalez and Thompson",Ruiz-Torres,IT,CA,Europe,America,5.469016687007655
+151,Liaoyang,Malakhovka,Friedman-Gonzalez,"Johnson, Brady and Hopkins",CN,RU,Asia,Europe,72.39449142207292
+152,Hueytown,Chharra,Reeves Ltd,"Jones, Mcpherson and Perez",US,IN,America,Asia,42.599233816603444
+153,Ushuaia,Freetown,Wang-Turner,Cole-Diaz,AR,SL,America,Africa,88.3759681298931
+154,Weimar,Pilar,Smith Ltd,"Baker, Lyons and Rangel",DE,PH,Europe,Asia,10.969079789906644
+155,Columbia Heights,Rwamagana,"Diaz, Peterson and Copeland","Lewis, Sanchez and Harrison",US,RW,America,Africa,88.76349511194564
+156,Bridgeport,Bridgeport,Bowers-Allen,Harris Ltd,US,US,America,America,44.762616676327404
+157,Oschatz,Itacoatiara,Santana-Curtis,Hawkins-Sanchez,DE,BR,Europe,America,61.67017979459938
+158,Chharra,Pontevedra,Noble-Cohen,"Owens, Griffin and Martinez",IN,AR,Asia,America,81.5772509238373
+159,Minas de Marcona,Rwamagana,"Baker, Lyons and Rangel",Santana-Curtis,PE,RW,America,Africa,26.56988467882214
+160,Mianwali,Daud Khel,"Jones, Gonzalez and Thompson",Jones LLC,PK,PK,Asia,Asia,82.16714360163888
+161,Collinwood,Houthalen,"Phillips, Olson and Stewart",Wang-Turner,US,BE,America,Europe,9.079763245600814
+162,Les Olives,Minas de Marcona,Lara-Palmer,Wilson Inc,FR,PE,Europe,America,28.934658688364767
+163,Bhuban,Schererville,"Vasquez, Kline and Burnett","Baker, Lyons and Rangel",IN,US,Asia,America,65.92247406089433
+164,Bonoua,Itacoatiara,"Doyle, Davenport and Bowman",Foley and Sons,CI,BR,Africa,America,79.9989115284335
+165,Dawei,Pilar,"Phillips, Olson and Stewart",Aguilar PLC,MM,PH,Asia,Asia,12.747299788403065
+166,Gua Musang,Pilar,"Huber, Lopez and Adams","Doyle, Davenport and Bowman",MY,PH,Asia,Asia,78.05031782563886
+167,Collinwood,Pontevedra,"Swanson, Freeman and White","Swanson, Freeman and White",US,AR,America,America,49.52451487877407
+168,Canavieiras,Aklera,Harris Ltd,"Owens, Griffin and Martinez",BR,IN,America,Asia,79.06487803940574
+169,Esmeraldas,Cavaillon,"Gregory, Morris and Brennan",Reeves Ltd,BR,FR,America,Europe,78.52561801655757
+170,Namerikawa,Lebanon,"Gregory, Morris and Brennan",Reeves Ltd,JP,US,Asia,America,67.34519551717202
+171,Ushuaia,East Jerusalem,Jones LLC,Green and Sons,AR,PS,America,Asia,40.84021320426825
+172,Qadirpur Ran,Utica,"Gregory, Morris and Brennan","Baker, Lyons and Rangel",PK,US,Asia,America,52.75212113570744
+173,Sar-e Pul,Cavaillon,Reyes-Mitchell,Novak-Brown,AF,FR,Asia,Europe,23.895692488783926
+174,Scarsdale,Jiangyan,"Gregory, Morris and Brennan",Smith Ltd,US,CN,America,Asia,47.3791204229182
+175,Hechingen,Binnish,Brooks-Jones,Young Inc,DE,SY,Europe,Asia,63.66322809461177
+176,Halstenbek,Pilar,Cervantes PLC,Harris Ltd,DE,PH,Europe,Asia,2.2118816905494665
+177,Vernon,Chharra,Novak-Brown,Hawkins-Sanchez,CA,IN,America,Asia,19.405283843975894
+178,Perugia,Foshan,Lara-Palmer,"West, King and Wilkerson",IT,CN,Europe,Asia,93.61975275907997
+179,Bavly,Perugia,Wang-Turner,Cole-Diaz,RU,IT,Europe,Europe,30.87735841344683
+180,Hoxtolgay,Taozhuang,Humphrey-Goodwin,"Phillips, Olson and Stewart",CN,CN,Asia,Asia,64.01391200102002
+181,Schwalmtal,Binnish,Fernandez-Norris,Santana-Curtis,DE,SY,Europe,Asia,93.54156079677948
+182,Mianwali,Foshan,"Phillips, Olson and Stewart",Erickson-Anderson,PK,CN,Asia,Asia,13.920539412881183
+183,Hueytown,Aklera,"Diaz, Peterson and Copeland",Wilson Inc,US,IN,America,Asia,19.47984133474452
+184,Muskogee,Lakewood,Whitaker-Guzman,Rosales and Sons,US,US,America,America,97.15537759437656
+185,Acaponeta,Ushuaia,Davis LLC,"Owens, Griffin and Martinez",MX,AR,America,America,79.38884493777978
+186,Lagos,Pilar,Reeves Ltd,Ruiz-Torres,NG,PH,Africa,Asia,21.546353549449726
+187,Bhuban,North Lauderdale,Harris Ltd,"Ray, Simpson and West",IN,US,Asia,America,45.06926163530014
+188,Roi Et,Eastwood,Whitaker-Guzman,Erickson-Anderson,TH,AU,Asia,Australia,82.88727726520477
+189,Sillanwali,Lower Earley,"Mcguire, Knapp and Nguyen","Ray, Simpson and West",PK,GB,Asia,Europe,96.9530239858751
+190,Bhuban,Hoxtolgay,Santana-Curtis,Young Inc,IN,CN,Asia,Asia,74.66304360127567
+191,Pontevedra,Tiruppuvanam,Bowers-Allen,Young Inc,AR,IN,America,Asia,52.221496064404285
+192,Columbia Heights,Lagos,"Wilkinson, Walls and Preston",Harris Ltd,US,NG,America,Africa,68.41822013070522
+193,Tupiza,Paidha,"Gregory, Morris and Brennan",Walker-Flores,BO,UG,America,Africa,78.41570174268034
+194,Kafanchan,Zeist,Santana-Curtis,Ramirez and Sons,NG,NL,Africa,Europe,74.58282325794238
+195,Dawei,Nova Xavantina,Wang-Turner,Wang-Turner,MM,BR,Asia,America,6.898862772978765
+196,Pontevedra,Perugia,Reeves Ltd,"Phillips, Olson and Stewart",AR,IT,America,Europe,13.531829542905172
+197,Kaukauna,Kafanchan,Thompson-Contreras,Lara-Palmer,US,NG,America,Africa,14.875877804271099
+198,Vernon,Collinwood,Galvan LLC,Erickson-Anderson,CA,US,America,America,0.11447819508195733
+199,Schwalmtal,East Jerusalem,Humphrey-Goodwin,Shields-Vasquez,DE,PS,Europe,Asia,8.77555112416264
+200,Lebanon,Sun City Center,Holden-Gutierrez,Erickson-Anderson,US,US,America,America,24.38750377970639
+201,Ushuaia,Tucano,"Wilkinson, Walls and Preston",Cole-Diaz,AR,BR,America,America,10.917747712754277
+202,Cavaillon,Columbia Heights,Hill PLC,Cole-Diaz,FR,US,Europe,America,48.033396378854235
+203,Halstenbek,Cavaillon,Santana-Curtis,Young Inc,DE,FR,Europe,Europe,85.07760919966623
+204,Nova Xavantina,Nova Xavantina,Smith Ltd,Novak-Brown,BR,BR,America,America,32.1079030912806
+205,Santa Catalina,Porterville,Wilson Inc,Humphrey-Goodwin,PH,US,Asia,America,17.734422813634588
+206,Daud Khel,Tupiza,Hawkins-Sanchez,Holden-Gutierrez,PK,BO,Asia,America,78.02056448450062
+207,Rwamagana,Tucano,Galvan LLC,Davis LLC,RW,BR,Africa,America,99.60597182121379
+208,Pontevedra,Freetown,Thompson-Contreras,Brooks-Jones,AR,SL,America,Africa,31.981298223065835
+209,Eastwood,Namerikawa,Reyes-Mitchell,Young Inc,AU,JP,Australia,Asia,88.61093170783884
+210,Daud Khel,Columbia Heights,Young Inc,Green and Sons,PK,US,Asia,America,70.10497844672156
+211,Nova Xavantina,Minas de Marcona,Reeves Ltd,"Swanson, Freeman and White",BR,PE,America,America,33.3772977673923
+212,Oschatz,Randudongkal,Friedman-Gonzalez,"Mcguire, Knapp and Nguyen",DE,ID,Europe,Asia,53.28913701806526
+213,Aklera,Paidha,"Lewis, Sanchez and Harrison","Phillips, Olson and Stewart",IN,UG,Asia,Africa,59.58564580856828
+214,East Jerusalem,Lakewood,"West, King and Wilkerson",Whitaker-Guzman,PS,US,Asia,America,81.99137707572679
+215,Bhuban,Parkent,"Baker, Lyons and Rangel",Harris Ltd,IN,UZ,Asia,Asia,25.500888274945645
+216,Yablonovskiy,Randudongkal,Rosales and Sons,Walker-Flores,RU,ID,Europe,Asia,42.4538491403808
+217,Taozhuang,Hueytown,Cole LLC,Foley and Sons,CN,US,Asia,America,45.67573463181781
+218,Kafanchan,Tupiza,"Ray, Simpson and West",Thompson-Contreras,NG,BO,Africa,America,0.030841274897985826
+219,Nova Xavantina,Schwalmtal,Hawkins-Sanchez,Hawkins-Sanchez,BR,DE,America,Europe,64.14103501639664
+220,Dawei,Sillanwali,"Huber, Lopez and Adams",Reyes-Mitchell,MM,PK,Asia,Asia,72.49411977234988
+221,Brentwood Estates,Paidha,"Baker, Lyons and Rangel",Thompson-Contreras,US,UG,America,Africa,32.42817727503044
+222,Longview,Albstadt,"Huber, Lopez and Adams",Orr Group,US,DE,America,Europe,69.27525954233177
+223,Pilar,Namerikawa,Wilson Inc,"Owens, Griffin and Martinez",PH,JP,Asia,Asia,76.34810109018909
+224,Falconara Marittima,Zacoalco de Torres,Walker-Flores,Walker Group,IT,MX,Europe,America,30.997166837284198
+225,Lakewood,Dawei,Walker Group,Wang-Turner,US,MM,America,Asia,21.893341277384295
+226,Casa Blanca,Parkent,"Huber, Lopez and Adams",Williams-Chen,MX,UZ,America,Asia,89.0850485002038
+227,Zeist,Oschatz,"Ray, Simpson and West",Williams-Chen,NL,DE,Europe,Europe,75.08380481980184
+228,Bridgeport,Daud Khel,Young Inc,Erickson-Anderson,US,PK,America,Asia,32.77948927641143
+229,Nkpor,Gua Musang,Hawkins-Sanchez,Bowers-Allen,NG,MY,Africa,Asia,53.853353010251496
+230,Oschatz,Sun City Center,Ramirez and Sons,Reeves Ltd,DE,US,Europe,America,55.7710630536296
+231,Houthalen,Sun City Center,Novak-Brown,"Torres, Jensen and Vega",BE,US,Europe,America,93.68748154911033
+232,Sillanwali,Sun City Center,"Jones, Gonzalez and Thompson",Reyes-Mitchell,PK,US,Asia,America,71.18020941761102
+233,Catania,Perugia,"Wilkinson, Walls and Preston",Rosales and Sons,IT,IT,Europe,Europe,82.8678544696291
+234,Temse,Lakewood,Davis LLC,Davis LLC,BE,US,Europe,America,39.42558342166943
+235,Tupiza,Jocotepec,"Owens, Griffin and Martinez",Novak-Brown,BO,MX,America,America,48.08964376542962
+236,Sun City Center,Kafanchan,"Baker, Lyons and Rangel",Santana-Curtis,US,NG,America,Africa,25.720556813889317
+237,Pilar,Barnet,Reeves Ltd,Bowers-Allen,PH,GB,Asia,Europe,62.92197724699798
+238,Daud Khel,Vahdat,"West, King and Wilkerson",Fernandez-Norris,PK,TJ,Asia,Asia,35.90077072552912
+239,Rwamagana,Hechingen,Thompson-Contreras,Holden-Gutierrez,RW,DE,Africa,Europe,48.34314993691869
+240,Paidha,Liaoyang,Friedman-Gonzalez,"Huber, Lopez and Adams",UG,CN,Africa,Asia,67.69410945850863
+241,Itacoatiara,Cavaillon,Wang-Turner,Mccullough Group,BR,FR,America,Europe,89.82253561392216
+242,Lebanon,Jocotepec,Hawkins-Sanchez,Cervantes PLC,US,MX,America,America,25.71458575076252
+243,Hechingen,Dawei,Friedman-Gonzalez,"Clark, Sanchez and Garcia",DE,MM,Europe,Asia,75.96503523068056
+244,Severodvinsk,Schererville,Davis LLC,Hill PLC,RU,US,Europe,America,65.7319082129856
+245,Minas de Marcona,Albstadt,Cervantes PLC,Thompson-Contreras,PE,DE,America,Europe,53.50514122673975
+246,Lagos,Cavaillon,Rosales and Sons,Walker-Flores,NG,FR,Africa,Europe,62.76511795928356
+247,Lakewood,Canavieiras,Orr Group,Smith Ltd,US,BR,America,America,24.847098537988078
+248,Pilar,Albstadt,Brooks-Jones,"Baker, Lyons and Rangel",PH,DE,Asia,Europe,1.9274336509402579
+249,Weimar,Esmeraldas,"Ray, Simpson and West","Swanson, Freeman and White",DE,BR,Europe,America,51.61433974009702
+250,Hueytown,Gua Musang,"Torres, Jensen and Vega","Owens, Griffin and Martinez",US,MY,America,Asia,7.232481131960844
+251,East Jerusalem,Collinwood,"Owens, Griffin and Martinez",Bowers-Allen,PS,US,Asia,America,66.47323159874158
+252,Pilar,Vernon,Bowers-Allen,Galvan LLC,PH,CA,Asia,America,0.746612618076381
+253,Hechingen,Vahdat,"Vasquez, Kline and Burnett",Brooks-Jones,DE,TJ,Europe,Asia,20.32462298593275
+254,Vahdat,Esmeraldas,"West, King and Wilkerson",Mccullough Group,TJ,BR,Asia,America,32.00485078461587
+255,Minas de Marcona,Rwamagana,"Owens, Griffin and Martinez",Novak-Brown,PE,RW,America,Africa,48.676549801116366
+256,East Jerusalem,Kaukauna,"Huber, Lopez and Adams",Foley and Sons,PS,US,Asia,America,53.12254306931637
+257,Okahandja,Esmeraldas,Reeves Ltd,"Jones, Gonzalez and Thompson",NA,BR,Africa,America,77.34295125955613
+258,Hoxtolgay,Kireyevsk,Walker Group,Rosales and Sons,CN,RU,Asia,Europe,74.98795495420295
+259,Lakewood,Minas de Marcona,"West, King and Wilkerson",Green and Sons,US,PE,America,America,7.394454655331007
+260,Utica,Lagos,Hawkins-Sanchez,Walker Group,US,NG,America,Africa,26.555130286393137
+261,Aklera,Roi Et,Cole LLC,"Lewis, Sanchez and Harrison",IN,TH,Asia,Asia,90.09922457876134
+262,Randudongkal,Kireyevsk,"Swanson, Freeman and White",Young Inc,ID,RU,Asia,Europe,5.785993421617974
+263,Nova Xavantina,High Wycombe,"Vasquez, Kline and Burnett",Erickson-Anderson,BR,GB,America,Europe,19.403862937043716
+264,Lebanon,Tiruppuvanam,"Ray, Simpson and West","Wilkinson, Walls and Preston",US,IN,America,Asia,13.931616826971426
+265,Kenda,Acaponeta,Brooks-Jones,Shields-Vasquez,IN,MX,Asia,America,30.82522133049053
+266,High Wycombe,Lagos,Walker-Flores,Wilson Inc,GB,NG,Europe,Africa,66.16385487433615
+267,Temse,Kaukauna,Wilson Inc,Williams-Chen,BE,US,Europe,America,86.88228541382094
+268,Hueytown,Oschatz,Williams-Chen,Mccullough Group,US,DE,America,Europe,31.022122657052808
+269,Daud Khel,Rwamagana,Santana-Curtis,Friedman-Gonzalez,PK,RW,Asia,Africa,14.731449049510026
+270,Namerikawa,North Lauderdale,Aguilar PLC,Whitaker-Guzman,JP,US,Asia,America,52.073013332945685
+271,Dawei,Tiruppuvanam,"Doyle, Davenport and Bowman",Davis LLC,MM,IN,Asia,Asia,71.50685201018445
+272,Yablonovskiy,Santa Catalina,Lara-Palmer,"Clark, Sanchez and Garcia",RU,PH,Europe,Asia,98.85848251388761
+273,Kaukauna,Tucano,Hawkins-Sanchez,Orr Group,US,BR,America,America,90.62890022150548
+274,Bonoua,Vahdat,"Ray, Simpson and West",Holden-Gutierrez,CI,TJ,Africa,Asia,35.8196197804079
+275,Nkpor,Qadirpur Ran,Novak-Brown,Cole-Diaz,NG,PK,Africa,Asia,59.60135988011302
+276,Kireyevsk,Perugia,"Vasquez, Kline and Burnett","Diaz, Peterson and Copeland",RU,IT,Europe,Europe,82.86363106418445
+277,Lakewood,Chharra,"Mcguire, Knapp and Nguyen","Jones, Gonzalez and Thompson",US,IN,America,Asia,50.20598332361915
+278,Parkent,Gua Musang,"Clark, Sanchez and Garcia",Mccullough Group,UZ,MY,Asia,Asia,94.92358013747524
+279,Tupiza,Lanciano,Cole LLC,Ramirez and Sons,BO,IT,America,Europe,1.649954733702197
+280,Kafanchan,Gariadhar,Bowers-Allen,Mccullough Group,NG,IN,Africa,Asia,18.692491664675014
+281,Malakhovka,Minas de Marcona,Santana-Curtis,Thompson-Contreras,RU,PE,Europe,America,59.111540723246435
+282,Paidha,Okahandja,"Doyle, Davenport and Bowman",Thompson-Contreras,UG,NA,Africa,Africa,63.29152968136671
+283,Oschatz,Falconara Marittima,"Gregory, Morris and Brennan",Davis LLC,DE,IT,Europe,Europe,29.896070428224597
+284,High Wycombe,Temse,"Phillips, Olson and Stewart",Wang-Turner,GB,BE,Europe,Europe,41.95575859931711
+285,Temse,Guyong,Shields-Vasquez,Ramirez and Sons,BE,PH,Europe,Asia,89.17740609562217
+286,Lagos,Malakhovka,Foley and Sons,"Huber, Lopez and Adams",NG,RU,Africa,Europe,43.29223574229142
+287,Daud Khel,Paidha,Brooks-Jones,Williams-Chen,PK,UG,Asia,Africa,76.45887590542002
+288,Kireyevsk,Barnet,Thompson-Contreras,Holden-Gutierrez,RU,GB,Europe,Europe,39.724530117601255
+289,Nkpor,Pilar,Smith Ltd,"Johnson, Brady and Hopkins",NG,PH,Africa,Asia,23.602379568410324
+290,North Lauderdale,Sathyamangalam,Thompson-Contreras,Fernandez-Norris,US,IN,America,Asia,41.47619378978137
+291,Weimar,Catania,"Ray, Simpson and West","West, King and Wilkerson",DE,IT,Europe,Europe,25.496778337318236
+292,Schwalmtal,Barnet,Reyes-Mitchell,"Jones, Mcpherson and Perez",DE,GB,Europe,Europe,53.56862797755304
+293,Paidha,Lakewood,Young Inc,Smith Ltd,UG,US,Africa,America,17.542232151179128
+294,East Dereham,Porterville,Fernandez-Norris,Cole LLC,GB,US,Europe,America,10.651255219568512
+295,Porterville,Bridgeport,Humphrey-Goodwin,"Doyle, Davenport and Bowman",US,US,America,America,47.04281198621112
+296,Lanciano,Vernon,Hawkins-Sanchez,"Diaz, Peterson and Copeland",IT,CA,Europe,America,32.20425113480274
+297,Eastwood,Lanciano,Cervantes PLC,"Wilkinson, Walls and Preston",AU,IT,Australia,Europe,50.083589341254644
+298,Sathyamangalam,Hoxtolgay,"Wilkinson, Walls and Preston","Jones, Mcpherson and Perez",IN,CN,Asia,Asia,72.70065122630864
+299,Jocotepec,Collinwood,Novak-Brown,"Huber, Lopez and Adams",MX,US,America,America,80.84657429103643
+300,Freetown,Temse,"Johnson, Brady and Hopkins","Wilkinson, Walls and Preston",SL,BE,Africa,Europe,61.68352518914217
+301,Bridgeport,Malakhovka,"Jones, Mcpherson and Perez",Whitaker-Guzman,US,RU,America,Europe,41.07832001866479
+302,Aklera,Itacoatiara,Whitaker-Guzman,Wilson Inc,IN,BR,Asia,America,14.634970971969775
+303,Bavly,Taozhuang,Erickson-Anderson,Young Inc,RU,CN,Europe,Asia,22.304189280166963
+304,Ushuaia,Utica,"Gregory, Morris and Brennan",Noble-Cohen,AR,US,America,America,11.24172897542669
+305,Bhuban,Liaoyang,Ruiz-Torres,"Gregory, Morris and Brennan",IN,CN,Asia,Asia,23.858159258347367
+306,Minas de Marcona,Namerikawa,Humphrey-Goodwin,Walker Group,PE,JP,America,Asia,29.036135016984044
+307,Lagos,Pontevedra,Jones LLC,Harris Ltd,NG,AR,Africa,America,38.03156937924981
+308,Bavly,Weimar,Novak-Brown,"Doyle, Davenport and Bowman",RU,DE,Europe,Europe,64.81679447844061
+309,Scarsdale,Houthalen,"Lewis, Sanchez and Harrison",Wang-Turner,US,BE,America,Europe,51.05216620528471
+310,Schwalmtal,Lebanon,"Gregory, Morris and Brennan","Mcguire, Knapp and Nguyen",DE,US,Europe,America,74.9922281105529
+311,Roi Et,Gua Musang,Mccullough Group,Santana-Curtis,TH,MY,Asia,Asia,22.74809798075087
+312,Columbia Heights,Lagos,Ramirez and Sons,Aguilar PLC,US,NG,America,Africa,95.08923329738606
+313,Roi Et,Brentwood Estates,Green and Sons,Green and Sons,TH,US,Asia,America,18.086084820364146
+314,Freetown,Brentwood Estates,"Diaz, Peterson and Copeland","Gregory, Morris and Brennan",SL,US,Africa,America,38.40464116021598
+315,Severodvinsk,Lebanon,Cole-Diaz,"Swanson, Freeman and White",RU,US,Europe,America,6.7196355298263954
+316,Parkent,Hueytown,"Clark, Sanchez and Garcia",Smith Ltd,UZ,US,Asia,America,2.7713471170078163
+317,Utica,Sathyamangalam,Lara-Palmer,"Huber, Lopez and Adams",US,IN,America,Asia,78.45422738156502
+318,Hechingen,Lower Earley,Wang-Turner,Cervantes PLC,DE,GB,Europe,Europe,68.6087196277818
+319,Pilar,Temse,Fernandez-Norris,Walker Group,PH,BE,Asia,Europe,0.49794286954459865
+320,Bonoua,Kenda,Thompson-Contreras,"Lewis, Sanchez and Harrison",CI,IN,Africa,Asia,65.50067657047572
+321,Bavly,Hechingen,Williams-Chen,Foley and Sons,RU,DE,Europe,Europe,37.3918841038406
+322,Lakewood,Liaoyang,Humphrey-Goodwin,Fernandez-Norris,US,CN,America,Asia,94.91198021797877
+323,Lebanon,Halstenbek,Smith Ltd,Williams-Chen,US,DE,America,Europe,31.759131350342017
+324,Cuenca,Casa Blanca,Ruiz-Torres,Ruiz-Torres,EC,MX,America,America,3.8635316754504045
+325,Nkpor,Longview,Rosales and Sons,Ramirez and Sons,NG,US,Africa,America,30.72902872376231
+326,Casa Blanca,Hoxtolgay,"Owens, Griffin and Martinez",Walker Group,MX,CN,America,Asia,46.976656702243716
+327,Parkent,Tupiza,Aguilar PLC,Humphrey-Goodwin,UZ,BO,Asia,America,88.57978527437062
+328,Lakewood,Zacoalco de Torres,"Ray, Simpson and West",Friedman-Gonzalez,US,MX,America,America,72.73809989747446
+329,Vahdat,Parkent,Bowers-Allen,Williams-Chen,TJ,UZ,Asia,Asia,82.15305462599977
+330,Hoxtolgay,Pontevedra,Green and Sons,Hill PLC,CN,AR,Asia,America,8.20225654989385
+331,East Jerusalem,Santa Catalina,Reeves Ltd,Reeves Ltd,PS,PH,Asia,Asia,27.471467257511463
+332,Lakewood,Jiangyan,"Doyle, Davenport and Bowman",Santana-Curtis,US,CN,America,Asia,86.91443397216864
+333,Aklera,Barnet,Jones LLC,Jones LLC,IN,GB,Asia,Europe,20.47361592957503
+334,Nkpor,Houthalen,"Phillips, Olson and Stewart",Santana-Curtis,NG,BE,Africa,Europe,23.497207819168363
+335,Eastwood,Binnish,Bowers-Allen,Aguilar PLC,AU,SY,Australia,Asia,11.098269523183546
+336,Marau,Lakewood,"Doyle, Davenport and Bowman",Cervantes PLC,BR,US,America,America,73.46169192926743
+337,Bavly,Freetown,"Owens, Griffin and Martinez","Jones, Gonzalez and Thompson",RU,SL,Europe,Africa,61.97691566121234
+338,Dawei,Columbia Heights,"Baker, Lyons and Rangel",Noble-Cohen,MM,US,Asia,America,58.84954792023376
+339,Freetown,Taozhuang,Hawkins-Sanchez,Shields-Vasquez,SL,CN,Africa,Asia,0.7717609490530242
+340,Roi Et,Kireyevsk,Noble-Cohen,Aguilar PLC,TH,RU,Asia,Europe,39.000039524147944
+341,Longview,Daud Khel,Harris Ltd,"Baker, Lyons and Rangel",US,PK,America,Asia,61.541155261896485
+342,Hechingen,Schwalmtal,Thompson-Contreras,Mccullough Group,DE,DE,Europe,Europe,39.28571828878877
+343,Lower Earley,Bridgeport,Reeves Ltd,Aguilar PLC,GB,US,Europe,America,48.11497037184967
+344,Les Olives,Lower Earley,Reeves Ltd,Humphrey-Goodwin,FR,GB,Europe,Europe,4.048354586945091
+345,Hechingen,Bridgeport,Green and Sons,Ramirez and Sons,DE,US,Europe,America,33.51405171172929
+346,Zeist,Catania,Foley and Sons,Foley and Sons,NL,IT,Europe,Europe,49.05963151458859
+347,Mianwali,Rwamagana,Walker-Flores,Davis LLC,PK,RW,Asia,Africa,7.106113501926259
+348,Mianwali,Zeist,Lara-Palmer,Noble-Cohen,PK,NL,Asia,Europe,98.41406864552233
+349,Binnish,North Lauderdale,Lara-Palmer,Jones LLC,SY,US,Asia,America,45.364228351284716
+350,Nkpor,Muskogee,Smith Ltd,"Diaz, Peterson and Copeland",NG,US,Africa,America,6.5905302799778465
+351,North Lauderdale,Daud Khel,Santana-Curtis,"Vasquez, Kline and Burnett",US,PK,America,Asia,48.9867480363693
+352,Columbia Heights,High Wycombe,Holden-Gutierrez,Holden-Gutierrez,US,GB,America,Europe,11.98874759358597
+353,Parkent,Nova Xavantina,Fernandez-Norris,"Johnson, Brady and Hopkins",UZ,BR,Asia,America,8.387886651576748
+354,Mianwali,Chharra,Wang-Turner,"Clark, Sanchez and Garcia",PK,IN,Asia,Asia,57.99174433509066
+355,Bonoua,Temse,"Jones, Gonzalez and Thompson",Reyes-Mitchell,CI,BE,Africa,Europe,69.22058060149908
+356,Barnet,Nova Xavantina,Santana-Curtis,"Johnson, Brady and Hopkins",GB,BR,Europe,America,56.545825178128574
+357,Severodvinsk,Vernon,Foley and Sons,Wang-Turner,RU,CA,Europe,America,49.924936864388435
+358,Brentwood Estates,Dawei,Rosales and Sons,Mccullough Group,US,MM,America,Asia,95.08030184013184
+359,Namerikawa,Marau,Wang-Turner,Reeves Ltd,JP,BR,Asia,America,93.4293907440957
+360,High Wycombe,Itacoatiara,Noble-Cohen,"Mcguire, Knapp and Nguyen",GB,BR,Europe,America,5.907711705429453
+361,Scarsdale,Kaukauna,Hawkins-Sanchez,Lara-Palmer,US,US,America,America,84.67089109705887
+362,Kaukauna,Utica,"West, King and Wilkerson",Noble-Cohen,US,US,America,America,40.83989074617668
+363,Catania,Lanciano,Walker-Flores,"Vasquez, Kline and Burnett",IT,IT,Europe,Europe,10.080451801612977
+364,Nkpor,Mianwali,Cole LLC,"West, King and Wilkerson",NG,PK,Africa,Asia,16.416844314289957
+365,Casa Blanca,Porterville,Walker-Flores,Davis LLC,MX,US,America,America,45.557571388369475
+366,Sathyamangalam,Casa Blanca,Humphrey-Goodwin,"Clark, Sanchez and Garcia",IN,MX,Asia,America,61.54766695318946
+367,Longview,Houthalen,Walker Group,Ruiz-Torres,US,BE,America,Europe,47.17767693538203
+368,Severodvinsk,Gua Musang,"Baker, Lyons and Rangel",Fernandez-Norris,RU,MY,Europe,Asia,53.574750047894426
+369,High Wycombe,Marau,"Johnson, Brady and Hopkins","Diaz, Peterson and Copeland",GB,BR,Europe,America,34.07013537886512
+370,Sar-e Pul,Roi Et,Bowers-Allen,"Johnson, Brady and Hopkins",AF,TH,Asia,Asia,64.66559957604248
+371,Muskogee,East Dereham,"Jones, Gonzalez and Thompson",Novak-Brown,US,GB,America,Europe,84.4691352233943
+372,Namerikawa,Temse,Smith Ltd,"Huber, Lopez and Adams",JP,BE,Asia,Europe,97.31041783457313
+373,Casa Blanca,Itacoatiara,Davis LLC,"Doyle, Davenport and Bowman",MX,BR,America,America,72.5703800834151
+374,Hechingen,Roi Et,Walker Group,Ruiz-Torres,DE,TH,Europe,Asia,99.53994455902911
+375,Schererville,Esmeraldas,Davis LLC,Williams-Chen,US,BR,America,America,96.35181335907797
+376,Freetown,Roi Et,Humphrey-Goodwin,"Swanson, Freeman and White",SL,TH,Africa,Asia,34.570393671203306
+377,Pilar,Binnish,"Lewis, Sanchez and Harrison",Cole-Diaz,PH,SY,Asia,Asia,65.71771459657508
+378,Kafanchan,Rwamagana,"Huber, Lopez and Adams","Diaz, Peterson and Copeland",NG,RW,Africa,Africa,7.097493292449797
+379,Sar-e Pul,Opportunity,Reyes-Mitchell,Fernandez-Norris,AF,US,Asia,America,30.71210529870956
+380,Ushuaia,Zacoalco de Torres,Reyes-Mitchell,Bowers-Allen,AR,MX,America,America,73.781697396544
+381,East Dereham,Falconara Marittima,Williams-Chen,"Baker, Lyons and Rangel",GB,IT,Europe,Europe,94.33217051508532
+382,Pilar,Hechingen,Shields-Vasquez,Aguilar PLC,PH,DE,Asia,Europe,23.380628739518695
+383,Pilar,Marau,Noble-Cohen,Wilson Inc,PH,BR,Asia,America,56.04990266819365
+384,Minas de Marcona,Muskogee,"Johnson, Brady and Hopkins","Owens, Griffin and Martinez",PE,US,America,America,85.62136634611652
+385,Longview,Taozhuang,"Vasquez, Kline and Burnett",Noble-Cohen,US,CN,America,Asia,71.85837713866935
+386,Jiangyan,Kaukauna,Harris Ltd,Novak-Brown,CN,US,Asia,America,16.249080658753655
+387,Marau,Pilar,Wilson Inc,Ruiz-Torres,BR,PH,America,Asia,65.63823693289254
+388,Lakewood,Eastwood,Walker-Flores,Whitaker-Guzman,US,AU,America,Australia,8.71113491766674
+389,Jocotepec,Mianwali,Hill PLC,"Gregory, Morris and Brennan",MX,PK,America,Asia,98.73435601735477
+390,Okahandja,Binnish,Whitaker-Guzman,Cole LLC,NA,SY,Africa,Asia,86.51895454093722
+391,Longview,Collinwood,Walker Group,Foley and Sons,US,US,America,America,54.042512424610734
+392,Barnet,Hueytown,Novak-Brown,Cervantes PLC,GB,US,Europe,America,30.17597682729678
+393,Albstadt,Binnish,"Ray, Simpson and West",Walker Group,DE,SY,Europe,Asia,72.16719413418986
+394,Freetown,Parkent,Ruiz-Torres,"Lewis, Sanchez and Harrison",SL,UZ,Africa,Asia,11.154965526872985
+395,Okahandja,Lakewood,Wilson Inc,Reyes-Mitchell,NA,US,Africa,America,97.19462301356276
+396,Namerikawa,Lebanon,Ramirez and Sons,Walker-Flores,JP,US,Asia,America,46.90370545371911
+397,Weimar,Hechingen,"Jones, Gonzalez and Thompson","Clark, Sanchez and Garcia",DE,DE,Europe,Europe,40.94054341027367
+398,Kafanchan,Freetown,Orr Group,"Wilkinson, Walls and Preston",NG,SL,Africa,Africa,91.84821898485961
+399,Lakewood,Bridgeport,Friedman-Gonzalez,Wilson Inc,US,US,America,America,49.59881843296014
+400,Oschatz,Perugia,Reeves Ltd,"Wilkinson, Walls and Preston",DE,IT,Europe,Europe,32.08560456063785
+401,High Wycombe,Namerikawa,"Doyle, Davenport and Bowman",Lara-Palmer,GB,JP,Europe,Asia,22.19993045591817
+402,Schererville,Eastwood,Wang-Turner,Bowers-Allen,US,AU,America,Australia,9.44579519056694
+403,Cuenca,Ushuaia,Harris Ltd,Reeves Ltd,EC,AR,America,America,71.36253220044527
+404,Weimar,Vernon,Bowers-Allen,Cole-Diaz,DE,CA,Europe,America,53.28893981405699
+405,Sar-e Pul,Daud Khel,"Phillips, Olson and Stewart",Novak-Brown,AF,PK,Asia,Asia,48.715567682043805
+406,Minas de Marcona,Pilar,Hill PLC,Davis LLC,PE,PH,America,Asia,14.324371037657324
+407,Acaponeta,Barnet,Holden-Gutierrez,"Lewis, Sanchez and Harrison",MX,GB,America,Europe,17.661883161151838
+408,East Jerusalem,Vernon,"Owens, Griffin and Martinez",Noble-Cohen,PS,CA,Asia,America,0.019246004797102145
+409,Roi Et,Paidha,Fernandez-Norris,Shields-Vasquez,TH,UG,Asia,Africa,87.99098814782842
+410,Hechingen,Bhuban,"Diaz, Peterson and Copeland","Wilkinson, Walls and Preston",DE,IN,Europe,Asia,86.36118122632236
+411,Daud Khel,Randudongkal,"Wilkinson, Walls and Preston",Aguilar PLC,PK,ID,Asia,Asia,24.58367229169992
+412,Rwamagana,Malakhovka,Cervantes PLC,Lara-Palmer,RW,RU,Africa,Europe,75.75619712017276
+413,Gariadhar,Paidha,Wang-Turner,Cole LLC,IN,UG,Asia,Africa,56.0611510937009
+414,Nova Xavantina,Binnish,Cervantes PLC,Foley and Sons,BR,SY,America,Asia,48.21882405169333
+415,Okahandja,Houthalen,Humphrey-Goodwin,Harris Ltd,NA,BE,Africa,Europe,69.46913248290463
+416,Nova Xavantina,Daud Khel,Thompson-Contreras,Cole LLC,BR,PK,America,Asia,55.9716000521409
+417,Hoxtolgay,Guyong,"Swanson, Freeman and White",Lara-Palmer,CN,PH,Asia,Asia,16.7222669909476
+418,Brentwood Estates,Nova Xavantina,"Baker, Lyons and Rangel","Doyle, Davenport and Bowman",US,BR,America,America,82.48095093432205
+419,Randudongkal,Catania,Hawkins-Sanchez,"Huber, Lopez and Adams",ID,IT,Asia,Europe,20.319399321823862
+420,Houthalen,Zeist,Jones LLC,Fernandez-Norris,BE,NL,Europe,Europe,76.53653858677804
+421,Eastwood,Lakewood,Whitaker-Guzman,Holden-Gutierrez,AU,US,Australia,America,49.84035271513116
+422,Jiangyan,Zeist,"Swanson, Freeman and White",Wang-Turner,CN,NL,Asia,Europe,76.12646538889945
+423,Hechingen,Sun City Center,"Huber, Lopez and Adams","Wilkinson, Walls and Preston",DE,US,Europe,America,88.67651062129178
+424,Pilar,Pilar,Humphrey-Goodwin,"Jones, Mcpherson and Perez",PH,PH,Asia,Asia,9.822911165947811
+425,Foshan,Kaukauna,"Johnson, Brady and Hopkins",Smith Ltd,CN,US,Asia,America,40.30559474952913
+426,Daud Khel,Bonoua,Noble-Cohen,Humphrey-Goodwin,PK,CI,Asia,Africa,77.616134044545
+427,Kireyevsk,Santa Catalina,"Phillips, Olson and Stewart","Johnson, Brady and Hopkins",RU,PH,Europe,Asia,35.04104652258862
+428,Utica,Temse,"Mcguire, Knapp and Nguyen",Erickson-Anderson,US,BE,America,Europe,31.76551541015209
+429,Yablonovskiy,Les Olives,Green and Sons,"Johnson, Brady and Hopkins",RU,FR,Europe,Europe,31.291732703189556
+430,East Dereham,Tucano,"Ray, Simpson and West",Davis LLC,GB,BR,Europe,America,82.50889825512238
+431,Catania,Eastwood,Ruiz-Torres,"Gregory, Morris and Brennan",IT,AU,Europe,Australia,44.71280330884235
+432,Sathyamangalam,Scarsdale,"Johnson, Brady and Hopkins","Vasquez, Kline and Burnett",IN,US,Asia,America,29.27093141725553
+433,Jocotepec,Dawei,Mccullough Group,"Wilkinson, Walls and Preston",MX,MM,America,Asia,42.289964970456985
+434,Sun City Center,Marau,Whitaker-Guzman,"Vasquez, Kline and Burnett",US,BR,America,America,28.80227455153319
+435,Weimar,Lower Earley,Fernandez-Norris,"Ray, Simpson and West",DE,GB,Europe,Europe,93.69418654478817
+436,Lagos,Dawei,Brooks-Jones,Smith Ltd,NG,MM,Africa,Asia,64.85983760518363
+437,Weimar,Dawei,Rosales and Sons,"Diaz, Peterson and Copeland",DE,MM,Europe,Asia,93.0707530912269
+438,Minas de Marcona,Paidha,Cole-Diaz,Galvan LLC,PE,UG,America,Africa,4.308009184197193
+439,Parkent,Pilar,"Diaz, Peterson and Copeland","Baker, Lyons and Rangel",UZ,PH,Asia,Asia,22.01389613342687
+440,Lanciano,Cavaillon,"Baker, Lyons and Rangel","Phillips, Olson and Stewart",IT,FR,Europe,Europe,86.5584280177824
+441,Itacoatiara,Lagos,Reeves Ltd,"Jones, Gonzalez and Thompson",BR,NG,America,Africa,50.13903040323902
+442,Mianwali,Scarsdale,Hawkins-Sanchez,Whitaker-Guzman,PK,US,Asia,America,70.77444818248595
+443,Longview,Lagos,Green and Sons,"Gregory, Morris and Brennan",US,NG,America,Africa,80.47902456047228
+444,Porterville,Gariadhar,Walker Group,"Johnson, Brady and Hopkins",US,IN,America,Asia,14.305477683022739
+445,Bridgeport,Ushuaia,Santana-Curtis,Wang-Turner,US,AR,America,America,25.750939316237098
+446,Longview,High Wycombe,Walker-Flores,Galvan LLC,US,GB,America,Europe,41.626301784517
+447,Ushuaia,Les Olives,Smith Ltd,Holden-Gutierrez,AR,FR,America,Europe,0.5640810598574131
+448,Lower Earley,Sillanwali,Aguilar PLC,Humphrey-Goodwin,GB,PK,Europe,Asia,98.80990817373632
+449,Gariadhar,Houthalen,"Gregory, Morris and Brennan","Baker, Lyons and Rangel",IN,BE,Asia,Europe,42.603464715851594
+450,East Dereham,Jiangyan,"Swanson, Freeman and White",Hill PLC,GB,CN,Europe,Asia,14.951234047540773
+451,Kaukauna,Vahdat,Reyes-Mitchell,"Mcguire, Knapp and Nguyen",US,TJ,America,Asia,70.54895912373469
+452,Schwalmtal,Porterville,"Jones, Mcpherson and Perez","Clark, Sanchez and Garcia",DE,US,Europe,America,90.3983075370401
+453,Aklera,Itacoatiara,Harris Ltd,Noble-Cohen,IN,BR,Asia,America,88.27061223299286
+454,Gua Musang,Collinwood,"Diaz, Peterson and Copeland","Vasquez, Kline and Burnett",MY,US,Asia,America,29.766292050695842
+455,Okahandja,Lagos,Fernandez-Norris,Cole-Diaz,NA,NG,Africa,Africa,37.39110406879236
+456,Aklera,Bhuban,Walker-Flores,Reyes-Mitchell,IN,IN,Asia,Asia,40.343759764155195
+457,Zacoalco de Torres,Catania,"Baker, Lyons and Rangel",Davis LLC,MX,IT,America,Europe,3.508054185636178
+458,Jiangyan,Tupiza,"Ray, Simpson and West",Reeves Ltd,CN,BO,Asia,America,87.09987262411998
+459,Halstenbek,Albstadt,"Wilkinson, Walls and Preston","Huber, Lopez and Adams",DE,DE,Europe,Europe,79.64079974339113
+460,Kenda,Bonoua,Walker Group,"Jones, Gonzalez and Thompson",IN,CI,Asia,Africa,54.703696966167556
+461,Nkpor,Marau,Lara-Palmer,Foley and Sons,NG,BR,Africa,America,50.358220677481334
+462,Aklera,Utica,Mccullough Group,Holden-Gutierrez,IN,US,Asia,America,19.704705494516528
+463,Halstenbek,East Jerusalem,Holden-Gutierrez,Wilson Inc,DE,PS,Europe,Asia,63.015107765032454
+464,Zeist,Zacoalco de Torres,"Wilkinson, Walls and Preston",Foley and Sons,NL,MX,Europe,America,20.4202047828425
+465,Hechingen,Bridgeport,Hill PLC,Novak-Brown,DE,US,Europe,America,23.11172445662787
+466,Rwamagana,Collinwood,"Diaz, Peterson and Copeland","Johnson, Brady and Hopkins",RW,US,Africa,America,28.749358115378033
+467,Namerikawa,Falconara Marittima,Rosales and Sons,"West, King and Wilkerson",JP,IT,Asia,Europe,39.13232768968658
+468,Bhuban,Liaoyang,Whitaker-Guzman,Ruiz-Torres,IN,CN,Asia,Asia,3.8647867344776987
+469,Hechingen,Rwamagana,Walker Group,Rosales and Sons,DE,RW,Europe,Africa,28.94157307689147
+470,Kaukauna,Jiangyan,"Phillips, Olson and Stewart","Ray, Simpson and West",US,CN,America,Asia,54.78277832153032
+471,East Jerusalem,High Wycombe,Galvan LLC,"Ray, Simpson and West",PS,GB,Asia,Europe,21.994293065734315
+472,Nova Xavantina,Oschatz,Williams-Chen,Hill PLC,BR,DE,America,Europe,63.721822429381284
+473,Aklera,Hechingen,Green and Sons,Green and Sons,IN,DE,Asia,Europe,60.55189703426266
+474,Kafanchan,Bonoua,Erickson-Anderson,Jones LLC,NG,CI,Africa,Africa,87.36831994919211
+475,Hoxtolgay,Oschatz,Novak-Brown,"Jones, Mcpherson and Perez",CN,DE,Asia,Europe,13.600860122849712
+476,Roi Et,Bavly,Walker-Flores,"Owens, Griffin and Martinez",TH,RU,Asia,Europe,53.89037502384999
+477,Eastwood,Malakhovka,Williams-Chen,"Swanson, Freeman and White",AU,RU,Australia,Europe,3.1303839348423956
+478,Yablonovskiy,Aklera,Cole-Diaz,Reyes-Mitchell,RU,IN,Europe,Asia,38.23342759387223
+479,Rwamagana,Schererville,"Jones, Gonzalez and Thompson","Mcguire, Knapp and Nguyen",RW,US,Africa,America,40.58897640609972
+480,Tupiza,Temse,Davis LLC,"Wilkinson, Walls and Preston",BO,BE,America,Europe,57.743401156772634
+481,Jiangyan,Hechingen,Hill PLC,Orr Group,CN,DE,Asia,Europe,14.031672329861877
+482,East Jerusalem,Pontevedra,Foley and Sons,Young Inc,PS,AR,Asia,America,54.63924285370102
+483,Casa Blanca,Albstadt,"Huber, Lopez and Adams","Lewis, Sanchez and Harrison",MX,DE,America,Europe,37.230688162580805
+484,Catania,Lakewood,"Owens, Griffin and Martinez",Galvan LLC,IT,US,Europe,America,51.38370651101667
+485,Dawei,Brentwood Estates,Reyes-Mitchell,Friedman-Gonzalez,MM,US,Asia,America,23.49057455724597
+486,Hechingen,Falconara Marittima,"Lewis, Sanchez and Harrison","Baker, Lyons and Rangel",DE,IT,Europe,Europe,99.4881315132777
+487,Cavaillon,Pontevedra,"Torres, Jensen and Vega","Ray, Simpson and West",FR,AR,Europe,America,54.52478153611191
+488,Kafanchan,Les Olives,Holden-Gutierrez,Hill PLC,NG,FR,Africa,Europe,77.34517328543654
+489,Zeist,Sar-e Pul,"West, King and Wilkerson",Shields-Vasquez,NL,AF,Europe,Asia,24.486385883982077
+490,Pilar,Utica,"Jones, Mcpherson and Perez",Ramirez and Sons,PH,US,Asia,America,12.692430810821342
+491,Temse,Lower Earley,"Clark, Sanchez and Garcia","Lewis, Sanchez and Harrison",BE,GB,Europe,Europe,22.72459113534744
+492,Lanciano,Lakewood,"Ray, Simpson and West",Rosales and Sons,IT,US,Europe,America,91.49139869070828
+493,Dawei,Esmeraldas,"Ray, Simpson and West",Cole LLC,MM,BR,Asia,America,29.710703203395116
+494,Lebanon,Jocotepec,Friedman-Gonzalez,Harris Ltd,US,MX,America,America,82.01386736705669
+495,Perugia,Lebanon,"Jones, Gonzalez and Thompson","Diaz, Peterson and Copeland",IT,US,Europe,America,83.76912858962648
+496,Tiruppuvanam,Bridgeport,"Jones, Mcpherson and Perez",Cole-Diaz,IN,US,Asia,America,5.869039155711886
+497,Minas de Marcona,Lagos,Aguilar PLC,"West, King and Wilkerson",PE,NG,America,Africa,19.48869301254851
+498,Schwalmtal,Kaukauna,Davis LLC,Brooks-Jones,DE,US,Europe,America,73.21373953405266
+499,Scarsdale,Pilar,"Torres, Jensen and Vega","Clark, Sanchez and Garcia",US,PH,America,Asia,47.3113029412105
+500,Collinwood,Perugia,Santana-Curtis,Thompson-Contreras,US,IT,America,Europe,39.96514011835962
+501,Zacoalco de Torres,Acaponeta,Holden-Gutierrez,Wilson Inc,MX,MX,America,America,64.93457433394087
+502,Minas de Marcona,Porterville,Foley and Sons,Novak-Brown,PE,US,America,America,26.78782925213814
+503,Ushuaia,Hoxtolgay,"Huber, Lopez and Adams",Ruiz-Torres,AR,CN,America,Asia,13.492494129898013
+504,Namerikawa,Acaponeta,"Phillips, Olson and Stewart",Fernandez-Norris,JP,MX,Asia,America,27.075783558876942
+505,High Wycombe,Catania,Thompson-Contreras,"Torres, Jensen and Vega",GB,IT,Europe,Europe,32.484155906501144
+506,East Dereham,Cuenca,Cole LLC,Wang-Turner,GB,EC,Europe,America,36.096544872880074
+507,Santa Catalina,Cavaillon,Williams-Chen,Cole-Diaz,PH,FR,Asia,Europe,68.52131431461004
+508,Longview,North Lauderdale,Novak-Brown,Cole LLC,US,US,America,America,10.382575011247397
+509,Zacoalco de Torres,Lakewood,"Huber, Lopez and Adams",Whitaker-Guzman,MX,US,America,America,45.11952834875916
+510,Schwalmtal,Houthalen,Jones LLC,Ramirez and Sons,DE,BE,Europe,Europe,71.53447517064076
+511,Schwalmtal,Pontevedra,Wilson Inc,Friedman-Gonzalez,DE,AR,Europe,America,38.00932738151269
+512,Chharra,Collinwood,Brooks-Jones,Holden-Gutierrez,IN,US,Asia,America,74.51124712093792
+513,Acaponeta,Pilar,Davis LLC,Wang-Turner,MX,PH,America,Asia,15.595722366926479
+514,Liaoyang,Liaoyang,Smith Ltd,Young Inc,CN,CN,Asia,Asia,99.51900537258564
+515,Bridgeport,Kaukauna,Davis LLC,"Doyle, Davenport and Bowman",US,US,America,America,65.22656203003599
+516,Sun City Center,Jocotepec,Rosales and Sons,Cole-Diaz,US,MX,America,America,96.7428900395014
+517,Bonoua,Vahdat,Noble-Cohen,Erickson-Anderson,CI,TJ,Africa,Asia,28.205149676074114
+518,Zeist,Oschatz,Brooks-Jones,Reyes-Mitchell,NL,DE,Europe,Europe,82.50206178388395
+519,Sun City Center,Schwalmtal,"Gregory, Morris and Brennan",Foley and Sons,US,DE,America,Europe,62.421247689517486
+520,Aklera,Jocotepec,Rosales and Sons,"Ray, Simpson and West",IN,MX,Asia,America,67.92719245238902
+521,Dawei,Qadirpur Ran,"Ray, Simpson and West",Whitaker-Guzman,MM,PK,Asia,Asia,99.32795051237618
+522,Hechingen,Oschatz,Green and Sons,Ruiz-Torres,DE,DE,Europe,Europe,19.050236258702203
+523,Halstenbek,Tiruppuvanam,Davis LLC,"Vasquez, Kline and Burnett",DE,IN,Europe,Asia,70.44596537991902
+524,Binnish,Aklera,Santana-Curtis,"Wilkinson, Walls and Preston",SY,IN,Asia,Asia,5.902335683747362
+525,Chharra,Hechingen,Ramirez and Sons,Novak-Brown,IN,DE,Asia,Europe,82.45243148419405
+526,Eastwood,Qadirpur Ran,"Mcguire, Knapp and Nguyen",Holden-Gutierrez,AU,PK,Australia,Asia,36.56753770199261
+527,Tucano,Lakewood,"Wilkinson, Walls and Preston",Santana-Curtis,BR,US,America,America,13.111103253429214
+528,Utica,Sun City Center,Humphrey-Goodwin,"Huber, Lopez and Adams",US,US,America,America,92.21974353595128
+529,Chharra,Roi Et,Walker Group,"Jones, Gonzalez and Thompson",IN,TH,Asia,Asia,0.8005659611462157
+530,Lagos,Paidha,"Huber, Lopez and Adams",Reeves Ltd,NG,UG,Africa,Africa,24.42844193542394
+531,Namerikawa,Malakhovka,Thompson-Contreras,"Diaz, Peterson and Copeland",JP,RU,Asia,Europe,17.448518691940464
+532,Lakewood,Pilar,"Mcguire, Knapp and Nguyen","Phillips, Olson and Stewart",US,PH,America,Asia,27.504137128521798
+533,Oschatz,Bavly,"Wilkinson, Walls and Preston","Torres, Jensen and Vega",DE,RU,Europe,Europe,68.47307274106207
+534,Esmeraldas,Hechingen,Mccullough Group,Davis LLC,BR,DE,America,Europe,36.877626722988246
+535,Vahdat,Acaponeta,Fernandez-Norris,"Huber, Lopez and Adams",TJ,MX,Asia,America,52.02069780479095
+536,Hechingen,Lagos,Ruiz-Torres,"Swanson, Freeman and White",DE,NG,Europe,Africa,54.503104270294386
+537,Daud Khel,Severodvinsk,"Gregory, Morris and Brennan",Cole LLC,PK,RU,Asia,Europe,92.2144251165722
+538,Randudongkal,Nova Xavantina,"Swanson, Freeman and White",Green and Sons,ID,BR,Asia,America,54.404554573891815
+539,Scarsdale,Dawei,Reeves Ltd,Erickson-Anderson,US,MM,America,Asia,28.143568553908626
+540,Freetown,Dawei,Green and Sons,"Baker, Lyons and Rangel",SL,MM,Africa,Asia,65.06167495003649
+541,Ushuaia,High Wycombe,Young Inc,Galvan LLC,AR,GB,America,Europe,11.048613170824662
+542,Schererville,Paidha,Williams-Chen,"Wilkinson, Walls and Preston",US,UG,America,Africa,17.802795919722303
+543,Lebanon,East Dereham,"Wilkinson, Walls and Preston","Jones, Mcpherson and Perez",US,GB,America,Europe,79.60801531492532
+544,Canavieiras,East Dereham,Harris Ltd,Friedman-Gonzalez,BR,GB,America,Europe,26.60548697308196
+545,Guyong,Sun City Center,Brooks-Jones,"Ray, Simpson and West",PH,US,Asia,America,7.233747328760898
+546,East Jerusalem,Hoxtolgay,"Mcguire, Knapp and Nguyen",Wang-Turner,PS,CN,Asia,Asia,30.349083993587566
+547,Marau,Taozhuang,Holden-Gutierrez,Shields-Vasquez,BR,CN,America,Asia,8.852133969457599
+548,Randudongkal,Hoxtolgay,Cervantes PLC,Reyes-Mitchell,ID,CN,Asia,Asia,16.78773580436388
+549,Liaoyang,Canavieiras,"Jones, Mcpherson and Perez",Young Inc,CN,BR,Asia,America,97.22415174287147
+550,Utica,Temse,"Clark, Sanchez and Garcia","Owens, Griffin and Martinez",US,BE,America,Europe,18.767104682905167
+551,Daud Khel,Liaoyang,Orr Group,Rosales and Sons,PK,CN,Asia,Asia,67.68901069475899
+552,Yablonovskiy,Daud Khel,Smith Ltd,Cole-Diaz,RU,PK,Europe,Asia,45.61337650550177
+553,Sar-e Pul,Aklera,Smith Ltd,Thompson-Contreras,AF,IN,Asia,Asia,64.55927837735062
+554,Daud Khel,Nkpor,"Lewis, Sanchez and Harrison","Baker, Lyons and Rangel",PK,NG,Asia,Africa,59.97370112420472
+555,Pilar,Zacoalco de Torres,Wilson Inc,Foley and Sons,PH,MX,Asia,America,70.23004221169325
+556,Acaponeta,Sathyamangalam,"Baker, Lyons and Rangel",Cervantes PLC,MX,IN,America,Asia,37.76814483353404
+557,Eastwood,Porterville,Fernandez-Norris,"Johnson, Brady and Hopkins",AU,US,Australia,America,93.40188654944096
+558,Itacoatiara,Taozhuang,Davis LLC,"Jones, Mcpherson and Perez",BR,CN,America,Asia,3.894998112187076
+559,Mianwali,Brentwood Estates,"Phillips, Olson and Stewart",Mccullough Group,PK,US,Asia,America,94.1333991563567
+560,Schwalmtal,Nkpor,Ramirez and Sons,Holden-Gutierrez,DE,NG,Europe,Africa,19.405031011564088
+561,Eastwood,Sillanwali,Bowers-Allen,Davis LLC,AU,PK,Australia,Asia,75.18717336308168
+562,Binnish,Hechingen,Noble-Cohen,Erickson-Anderson,SY,DE,Asia,Europe,16.164978962784648
+563,Sun City Center,Foshan,Shields-Vasquez,Santana-Curtis,US,CN,America,Asia,78.89572878991954
+564,Bridgeport,Kaukauna,"Baker, Lyons and Rangel","Torres, Jensen and Vega",US,US,America,America,74.8227207699156
+565,Yablonovskiy,Freetown,Ramirez and Sons,Reyes-Mitchell,RU,SL,Europe,Africa,34.540726334640205
+566,Roi Et,Muskogee,Santana-Curtis,Hill PLC,TH,US,Asia,America,22.42140093089393
+567,Vahdat,Gua Musang,Erickson-Anderson,Davis LLC,TJ,MY,Asia,Asia,28.024605467648623
+568,Nkpor,Oschatz,"Johnson, Brady and Hopkins",Aguilar PLC,NG,DE,Africa,Europe,68.38086562700482
+569,Bridgeport,Itacoatiara,"Vasquez, Kline and Burnett",Williams-Chen,US,BR,America,America,76.67499859447874
+570,Dawei,North Lauderdale,Young Inc,"Torres, Jensen and Vega",MM,US,Asia,America,93.71359980648927
+571,Jiangyan,Hueytown,Wilson Inc,Cole-Diaz,CN,US,Asia,America,44.6154130356298
+572,Utica,Vahdat,"West, King and Wilkerson",Young Inc,US,TJ,America,Asia,72.10935024338393
+573,Zacoalco de Torres,Namerikawa,Galvan LLC,Orr Group,MX,JP,America,Asia,93.9728811347911
+574,Gariadhar,Roi Et,Cole-Diaz,Smith Ltd,IN,TH,Asia,Asia,81.33583344241892
+575,Kafanchan,Daud Khel,"Gregory, Morris and Brennan","Diaz, Peterson and Copeland",NG,PK,Africa,Asia,45.610522258446565
+576,Hueytown,Acaponeta,Reeves Ltd,Cole LLC,US,MX,America,America,62.78661445583601
+577,Albstadt,Guyong,Friedman-Gonzalez,"Gregory, Morris and Brennan",DE,PH,Europe,Asia,88.39515806376971
+578,Barnet,Roi Et,"Phillips, Olson and Stewart",Wang-Turner,GB,TH,Europe,Asia,10.599208955743233
+579,Hechingen,Itacoatiara,Jones LLC,Cole-Diaz,DE,BR,Europe,America,88.8563026035352
+580,Aklera,Hechingen,Wang-Turner,Orr Group,IN,DE,Asia,Europe,83.20876218740477
+581,Sathyamangalam,Vahdat,Erickson-Anderson,"Torres, Jensen and Vega",IN,TJ,Asia,Asia,30.865892791518835
+582,Sar-e Pul,Kireyevsk,Holden-Gutierrez,Green and Sons,AF,RU,Asia,Europe,82.22015665913432
+583,Lanciano,Bonoua,"Mcguire, Knapp and Nguyen","Swanson, Freeman and White",IT,CI,Europe,Africa,13.022413440598912
+584,High Wycombe,Gariadhar,Erickson-Anderson,Fernandez-Norris,GB,IN,Europe,Asia,47.954999615896796
+585,Parkent,Brentwood Estates,Friedman-Gonzalez,"Owens, Griffin and Martinez",UZ,US,Asia,America,43.04378851455215
+586,Marau,Halstenbek,"Torres, Jensen and Vega","Lewis, Sanchez and Harrison",BR,DE,America,Europe,4.26010422766101
+587,Cuenca,Vernon,Reyes-Mitchell,"Vasquez, Kline and Burnett",EC,CA,America,America,92.6219908643143
+588,Pontevedra,Bhuban,"Huber, Lopez and Adams",Shields-Vasquez,AR,IN,America,Asia,70.47596971317954
+589,Hechingen,Bavly,Davis LLC,Galvan LLC,DE,RU,Europe,Europe,17.14143677414007
+590,Acaponeta,Kireyevsk,"Mcguire, Knapp and Nguyen",Whitaker-Guzman,MX,RU,America,Europe,11.453347070388197
+591,Lakewood,Itacoatiara,"Torres, Jensen and Vega",Hawkins-Sanchez,US,BR,America,America,69.15737647536511
+592,Porterville,Binnish,"Jones, Mcpherson and Perez","Ray, Simpson and West",US,SY,America,Asia,43.52564685628016
+593,Santa Catalina,Lakewood,Fernandez-Norris,Hill PLC,PH,US,Asia,America,15.622292754145906
+594,Marau,Itacoatiara,Davis LLC,Jones LLC,BR,BR,America,America,21.70371521819241
+595,Namerikawa,Longview,Reeves Ltd,Shields-Vasquez,JP,US,Asia,America,14.426389413234508
+596,Kaukauna,Itacoatiara,"Johnson, Brady and Hopkins",Davis LLC,US,BR,America,America,64.60367454453824
+597,Utica,Vernon,"Diaz, Peterson and Copeland","Jones, Gonzalez and Thompson",US,CA,America,America,49.3507256575772
+598,Schwalmtal,Daud Khel,Mccullough Group,Orr Group,DE,PK,Europe,Asia,29.28024281999978
+599,Hechingen,Parkent,"West, King and Wilkerson",Reeves Ltd,DE,UZ,Europe,Asia,23.582247083690632
+600,Tiruppuvanam,Rwamagana,Young Inc,Noble-Cohen,IN,RW,Asia,Africa,53.74248871454278
+601,Okahandja,Schwalmtal,Thompson-Contreras,Galvan LLC,NA,DE,Africa,Europe,98.30580117000858
+602,Opportunity,Vernon,Smith Ltd,Galvan LLC,US,CA,America,America,76.09236632209888
+603,Jiangyan,Freetown,Erickson-Anderson,Walker Group,CN,SL,Asia,Africa,0.9292809842053829
+604,Malakhovka,Cavaillon,Erickson-Anderson,Walker-Flores,RU,FR,Europe,Europe,66.30488805690332
+605,Longview,Longview,"Vasquez, Kline and Burnett","Clark, Sanchez and Garcia",US,US,America,America,98.65382565002504
+606,Tucano,Bhuban,Foley and Sons,Mccullough Group,BR,IN,America,Asia,7.3726787893365175
+607,High Wycombe,Scarsdale,Green and Sons,Walker Group,GB,US,Europe,America,54.65757241237627
+608,Mianwali,Hechingen,"Doyle, Davenport and Bowman",Davis LLC,PK,DE,Asia,Europe,60.47593580424069
+609,Tiruppuvanam,East Jerusalem,"Ray, Simpson and West","Mcguire, Knapp and Nguyen",IN,PS,Asia,Asia,20.358980011968963
+610,Qadirpur Ran,Zacoalco de Torres,Davis LLC,Cole-Diaz,PK,MX,Asia,America,0.3229911293272769
+611,Hueytown,Daud Khel,Young Inc,Walker Group,US,PK,America,Asia,41.098468386773625
+612,Binnish,Marau,Smith Ltd,"West, King and Wilkerson",SY,BR,Asia,America,21.89936701070091
+613,Parkent,Schwalmtal,"Clark, Sanchez and Garcia",Foley and Sons,UZ,DE,Asia,Europe,92.015772778595
+614,Temse,Parkent,Walker-Flores,Friedman-Gonzalez,BE,UZ,Europe,Asia,21.201186383244664
+615,Nkpor,Pontevedra,Lara-Palmer,"Wilkinson, Walls and Preston",NG,AR,Africa,America,35.899958859552406
+616,Muskogee,Daud Khel,"Baker, Lyons and Rangel",Cole LLC,US,PK,America,Asia,64.77569280778485
+617,Temse,Binnish,Cervantes PLC,Smith Ltd,BE,SY,Europe,Asia,11.375471778268187
+618,Hechingen,Severodvinsk,Humphrey-Goodwin,Reeves Ltd,DE,RU,Europe,Europe,22.825306565983382
+619,Hechingen,Casa Blanca,"Diaz, Peterson and Copeland",Green and Sons,DE,MX,Europe,America,86.48660643111388
+620,Schererville,Lanciano,"Torres, Jensen and Vega",Whitaker-Guzman,US,IT,America,Europe,78.65087163464727
+621,Sar-e Pul,Okahandja,Cervantes PLC,Wang-Turner,AF,NA,Asia,Africa,63.275148429287455
+622,Vahdat,Columbia Heights,Cole LLC,"Diaz, Peterson and Copeland",TJ,US,Asia,America,24.624443510442195
+623,Ushuaia,Sun City Center,Smith Ltd,Ramirez and Sons,AR,US,America,America,66.59773040924433
+624,Cavaillon,Lakewood,"Torres, Jensen and Vega","Wilkinson, Walls and Preston",FR,US,Europe,America,80.31672588249998
+625,Schwalmtal,Columbia Heights,Humphrey-Goodwin,Lara-Palmer,DE,US,Europe,America,76.252934443595
+626,Tucano,Liaoyang,"Lewis, Sanchez and Harrison","Jones, Mcpherson and Perez",BR,CN,America,Asia,24.306781918501528
+627,Guyong,Gua Musang,Humphrey-Goodwin,"Jones, Mcpherson and Perez",PH,MY,Asia,Asia,67.41371302262786
+628,Marau,Taozhuang,Williams-Chen,Cervantes PLC,BR,CN,America,Asia,40.71434101653881
+629,Lebanon,Liaoyang,"Jones, Gonzalez and Thompson","Baker, Lyons and Rangel",US,CN,America,Asia,23.111072610642168
+630,Schererville,Temse,"Clark, Sanchez and Garcia",Ramirez and Sons,US,BE,America,Europe,6.072830232080606
+631,Lagos,Lakewood,Mccullough Group,Walker-Flores,NG,US,Africa,America,82.84042850957877
+632,Severodvinsk,Cavaillon,Williams-Chen,Friedman-Gonzalez,RU,FR,Europe,Europe,93.17599054480078
+633,Casa Blanca,North Lauderdale,Fernandez-Norris,"Lewis, Sanchez and Harrison",MX,US,America,America,75.82544882766648
+634,Namerikawa,North Lauderdale,Shields-Vasquez,Shields-Vasquez,JP,US,Asia,America,59.401326744877025
+635,Mianwali,Severodvinsk,Mccullough Group,Friedman-Gonzalez,PK,RU,Asia,Europe,71.28696152909708
+636,North Lauderdale,Severodvinsk,Novak-Brown,Wang-Turner,US,RU,America,Europe,29.757901658796527
+637,Paidha,Randudongkal,"Baker, Lyons and Rangel",Jones LLC,UG,ID,Africa,Asia,80.62737555486261
+638,Pilar,High Wycombe,Friedman-Gonzalez,"Clark, Sanchez and Garcia",PH,GB,Asia,Europe,78.56307550785532
+639,Scarsdale,Sun City Center,"Wilkinson, Walls and Preston","West, King and Wilkerson",US,US,America,America,53.14287096301504
+640,High Wycombe,Barnet,"Diaz, Peterson and Copeland",Lara-Palmer,GB,GB,Europe,Europe,21.762024502513842
+641,Mianwali,Schererville,Wilson Inc,"Huber, Lopez and Adams",PK,US,Asia,America,74.63132524560248
+642,Nova Xavantina,Lower Earley,Davis LLC,Thompson-Contreras,BR,GB,America,Europe,5.289742909410533
+643,Minas de Marcona,Les Olives,Jones LLC,Whitaker-Guzman,PE,FR,America,Europe,19.333569251124473
+644,Gua Musang,Bridgeport,"Swanson, Freeman and White",Thompson-Contreras,MY,US,Asia,America,91.41055835712282
+645,Casa Blanca,Daud Khel,Hawkins-Sanchez,Harris Ltd,MX,PK,America,Asia,58.28069394394023
+646,Lagos,Lower Earley,Young Inc,"Jones, Gonzalez and Thompson",NG,GB,Africa,Europe,15.782971545824632
+647,Bridgeport,Mianwali,Ramirez and Sons,Rosales and Sons,US,PK,America,Asia,1.4653812450124093
+648,Marau,Catania,Cole-Diaz,"Swanson, Freeman and White",BR,IT,America,Europe,69.07740019078776
+649,Jocotepec,Lower Earley,Reeves Ltd,Rosales and Sons,MX,GB,America,Europe,44.77996827907005
+650,Weimar,Utica,Wang-Turner,"Ray, Simpson and West",DE,US,Europe,America,88.70114854702874
+651,Temse,Lagos,Cervantes PLC,Bowers-Allen,BE,NG,Europe,Africa,82.7535109811617
+652,Lakewood,Kenda,"Ray, Simpson and West",Bowers-Allen,US,IN,America,Asia,59.48071460280207
+653,Perugia,East Jerusalem,Ramirez and Sons,"Lewis, Sanchez and Harrison",IT,PS,Europe,Asia,86.40018152801196
+654,Zeist,Santa Catalina,Thompson-Contreras,Holden-Gutierrez,NL,PH,Europe,Asia,57.967738201784556
+655,Binnish,Lakewood,Smith Ltd,Ruiz-Torres,SY,US,Asia,America,16.0299466080281
+656,Bhuban,Vahdat,Mccullough Group,Harris Ltd,IN,TJ,Asia,Asia,86.6016360112502
+657,Bonoua,Marau,Mccullough Group,"Wilkinson, Walls and Preston",CI,BR,Africa,America,42.45968689983337
+658,Vahdat,Minas de Marcona,"Gregory, Morris and Brennan",Walker-Flores,TJ,PE,Asia,America,66.09593714935153
+659,Binnish,Kafanchan,"Ray, Simpson and West",Ruiz-Torres,SY,NG,Asia,Africa,7.637204924471341
+660,Longview,Temse,"Jones, Gonzalez and Thompson","Huber, Lopez and Adams",US,BE,America,Europe,1.802735289604196
+661,Vernon,Lower Earley,"Lewis, Sanchez and Harrison",Aguilar PLC,CA,GB,America,Europe,59.311213665978734
+662,East Jerusalem,Kenda,Cole LLC,Novak-Brown,PS,IN,Asia,Asia,17.563395128464
+663,Lakewood,Kaukauna,"Clark, Sanchez and Garcia","Ray, Simpson and West",US,US,America,America,55.17543616476856
+664,Yablonovskiy,Jocotepec,Wang-Turner,Ruiz-Torres,RU,MX,Europe,America,85.32252554500009
+665,Oschatz,Scarsdale,Reyes-Mitchell,Hill PLC,DE,US,Europe,America,21.486123163947056
+666,North Lauderdale,Schererville,"West, King and Wilkerson","Jones, Gonzalez and Thompson",US,US,America,America,40.2710716420292
+667,Kaukauna,Daud Khel,"Doyle, Davenport and Bowman",Jones LLC,US,PK,America,Asia,15.522323510816804
+668,Lagos,Santa Catalina,Wang-Turner,Williams-Chen,NG,PH,Africa,Asia,78.56303659711612
+669,Tupiza,Longview,Walker-Flores,Hill PLC,BO,US,America,America,64.80873845750146
+670,Kafanchan,Yablonovskiy,Reyes-Mitchell,Reyes-Mitchell,NG,RU,Africa,Europe,85.06256028087533
+671,Kafanchan,Schwalmtal,Ruiz-Torres,"Baker, Lyons and Rangel",NG,DE,Africa,Europe,47.26153708595893
+672,Temse,Lower Earley,Cole-Diaz,Humphrey-Goodwin,BE,GB,Europe,Europe,33.99346164113478
+673,High Wycombe,Acaponeta,Cole LLC,"West, King and Wilkerson",GB,MX,Europe,America,77.09491910583652
+674,Cuenca,Sar-e Pul,Wang-Turner,Shields-Vasquez,EC,AF,America,Asia,52.53420776399433
+675,Longview,Freetown,Ramirez and Sons,"Vasquez, Kline and Burnett",US,SL,America,Africa,55.855704642722024
+676,East Dereham,Daud Khel,"Gregory, Morris and Brennan","Wilkinson, Walls and Preston",GB,PK,Europe,Asia,72.45219071027408
+677,Nkpor,East Dereham,Brooks-Jones,Reeves Ltd,NG,GB,Africa,Europe,85.65576578118915
+678,Nova Xavantina,Brentwood Estates,Walker Group,"Diaz, Peterson and Copeland",BR,US,America,America,97.67197881113627
+679,Schwalmtal,Namerikawa,Jones LLC,Wang-Turner,DE,JP,Europe,Asia,18.092497398012476
+680,Rwamagana,Kenda,Davis LLC,"Mcguire, Knapp and Nguyen",RW,IN,Africa,Asia,88.82234392900969
+681,Hoxtolgay,Hueytown,"Owens, Griffin and Martinez",Humphrey-Goodwin,CN,US,Asia,America,23.710085864540275
+682,Lakewood,Hueytown,Wang-Turner,"Jones, Gonzalez and Thompson",US,US,America,America,87.42905749726602
+683,High Wycombe,Mianwali,"Doyle, Davenport and Bowman",Rosales and Sons,GB,PK,Europe,Asia,57.85330232010368
+684,Bavly,Qadirpur Ran,Reyes-Mitchell,Foley and Sons,RU,PK,Europe,Asia,3.624698716484931
+685,Perugia,Vahdat,Ramirez and Sons,Erickson-Anderson,IT,TJ,Europe,Asia,10.74358737799681
+686,Roi Et,Hueytown,"Doyle, Davenport and Bowman","Lewis, Sanchez and Harrison",TH,US,Asia,America,28.882714468757186
+687,Sar-e Pul,Halstenbek,"Owens, Griffin and Martinez",Noble-Cohen,AF,DE,Asia,Europe,83.33164143680882
+688,Kenda,Jocotepec,Cole-Diaz,Walker Group,IN,MX,Asia,America,96.93386663092558
+689,East Dereham,Halstenbek,"Owens, Griffin and Martinez",Ramirez and Sons,GB,DE,Europe,Europe,74.64288070728881
+690,North Lauderdale,Lower Earley,"Doyle, Davenport and Bowman","West, King and Wilkerson",US,GB,America,Europe,92.0504169222434
+691,Lower Earley,Sar-e Pul,"Wilkinson, Walls and Preston",Smith Ltd,GB,AF,Europe,Asia,71.10788786105304
+692,High Wycombe,Gariadhar,Santana-Curtis,Foley and Sons,GB,IN,Europe,Asia,95.11583100528152
+693,Pilar,Hueytown,Fernandez-Norris,Humphrey-Goodwin,PH,US,Asia,America,60.47712181720616
+694,Binnish,Temse,Hill PLC,"Baker, Lyons and Rangel",SY,BE,Asia,Europe,25.328750875730943
+695,Gariadhar,Jocotepec,"Gregory, Morris and Brennan",Thompson-Contreras,IN,MX,Asia,America,68.63302103946894
+696,Rwamagana,Pilar,Holden-Gutierrez,Williams-Chen,RW,PH,Africa,Asia,68.39302414803967
+697,Minas de Marcona,Halstenbek,Hill PLC,Davis LLC,PE,DE,America,Europe,93.66459665153329
+698,Ushuaia,Jiangyan,Davis LLC,Bowers-Allen,AR,CN,America,Asia,66.27800305267024
+699,Lebanon,Temse,"Ray, Simpson and West",Walker-Flores,US,BE,America,Europe,46.19761206559878
+700,Cuenca,Weimar,Brooks-Jones,Young Inc,EC,DE,America,Europe,70.95512832751984
+701,Temse,Pontevedra,Lara-Palmer,Whitaker-Guzman,BE,AR,Europe,America,73.40255125744748
+702,Sar-e Pul,Esmeraldas,Williams-Chen,"Lewis, Sanchez and Harrison",AF,BR,Asia,America,71.91043272383743
+703,Roi Et,Rwamagana,Whitaker-Guzman,Walker-Flores,TH,RW,Asia,Africa,73.5118068522268
+704,Daud Khel,Les Olives,Wilson Inc,"Jones, Gonzalez and Thompson",PK,FR,Asia,Europe,77.43461761973097
+705,Schererville,Bhuban,"Owens, Griffin and Martinez",Cole LLC,US,IN,America,Asia,62.85391159690404
+706,Muskogee,Catania,"Ray, Simpson and West","Diaz, Peterson and Copeland",US,IT,America,Europe,16.242029717007213
+707,Esmeraldas,Guyong,Harris Ltd,Green and Sons,BR,PH,America,Asia,34.11951196460748
+708,Randudongkal,Temse,Walker-Flores,Noble-Cohen,ID,BE,Asia,Europe,96.76901853778166
+709,Malakhovka,Taozhuang,Harris Ltd,Smith Ltd,RU,CN,Europe,Asia,90.56613874231911
+710,Mianwali,Okahandja,Humphrey-Goodwin,"Swanson, Freeman and White",PK,NA,Asia,Africa,45.45399977281883
+711,East Dereham,Randudongkal,Walker Group,Davis LLC,GB,ID,Europe,Asia,26.98651783605567
+712,Zacoalco de Torres,Freetown,Ruiz-Torres,"Gregory, Morris and Brennan",MX,SL,America,Africa,20.595101005377103
+713,Hechingen,Liaoyang,Novak-Brown,"Mcguire, Knapp and Nguyen",DE,CN,Europe,Asia,19.485520915671863
+714,Severodvinsk,Esmeraldas,Hawkins-Sanchez,Jones LLC,RU,BR,Europe,America,12.9337398860492
+715,Jiangyan,Pilar,Ruiz-Torres,Galvan LLC,CN,PH,Asia,Asia,28.518347954025103
+716,Aklera,Bonoua,Lara-Palmer,"Gregory, Morris and Brennan",IN,CI,Asia,Africa,3.5850651257786303
+717,East Dereham,Nkpor,"Phillips, Olson and Stewart","Phillips, Olson and Stewart",GB,NG,Europe,Africa,92.62087375028116
+718,Yablonovskiy,Qadirpur Ran,Jones LLC,Novak-Brown,RU,PK,Europe,Asia,77.87401198324689
+719,Zeist,Lower Earley,Hill PLC,Hawkins-Sanchez,NL,GB,Europe,Europe,47.63736170415841
+720,Oschatz,Binnish,"Ray, Simpson and West","Owens, Griffin and Martinez",DE,SY,Europe,Asia,20.3601306642483
+721,Okahandja,Pontevedra,"Torres, Jensen and Vega","Baker, Lyons and Rangel",NA,AR,Africa,America,63.92404314075723
+722,Columbia Heights,Columbia Heights,Ruiz-Torres,Orr Group,US,US,America,America,20.60545177816362
+723,Eastwood,Pilar,Novak-Brown,Noble-Cohen,AU,PH,Australia,Asia,1.472089385015507
+724,Barnet,Lakewood,Hawkins-Sanchez,Galvan LLC,GB,US,Europe,America,32.96301011845494
+725,Ushuaia,Hechingen,Galvan LLC,Reeves Ltd,AR,DE,America,Europe,41.21425692773029
+726,Binnish,Opportunity,Walker Group,Cole LLC,SY,US,Asia,America,8.884212712583995
+727,Weimar,East Jerusalem,Shields-Vasquez,Noble-Cohen,DE,PS,Europe,Asia,28.53540191057764
+728,Bhuban,Ushuaia,Rosales and Sons,Davis LLC,IN,AR,Asia,America,61.91296021369824
+729,Canavieiras,East Jerusalem,"Jones, Mcpherson and Perez",Noble-Cohen,BR,PS,America,Asia,69.10379951104963
+730,Tucano,Vahdat,Holden-Gutierrez,"Clark, Sanchez and Garcia",BR,TJ,America,Asia,62.77617138833561
+731,Randudongkal,Kafanchan,"Baker, Lyons and Rangel","Mcguire, Knapp and Nguyen",ID,NG,Asia,Africa,32.21051846394503
+732,Weimar,Freetown,"Wilkinson, Walls and Preston",Fernandez-Norris,DE,SL,Europe,Africa,45.165762026789714
+733,Foshan,Hueytown,Cole LLC,Hill PLC,CN,US,Asia,America,68.67028549663861
+734,Lebanon,Lebanon,Young Inc,Cole LLC,US,US,America,America,60.64528852623789
+735,Scarsdale,Schererville,Wilson Inc,Reeves Ltd,US,US,America,America,7.5120436388709795
+736,Les Olives,Les Olives,Thompson-Contreras,Cole LLC,FR,FR,Europe,Europe,34.013209921674395
+737,Kafanchan,Schwalmtal,"Swanson, Freeman and White",Reyes-Mitchell,NG,DE,Africa,Europe,31.35892074623924
+738,Acaponeta,Sun City Center,Santana-Curtis,Wilson Inc,MX,US,America,America,37.30890208990566
+739,Minas de Marcona,Bhuban,Orr Group,"Diaz, Peterson and Copeland",PE,IN,America,Asia,62.29097284998518
+740,Sar-e Pul,Bhuban,Bowers-Allen,Aguilar PLC,AF,IN,Asia,Asia,78.62995969797333
+741,Hechingen,Daud Khel,Hill PLC,"Ray, Simpson and West",DE,PK,Europe,Asia,6.042301581074538
+742,Hueytown,Qadirpur Ran,Brooks-Jones,Holden-Gutierrez,US,PK,America,Asia,61.39503740318932
+743,Bonoua,Aklera,Novak-Brown,Green and Sons,CI,IN,Africa,Asia,53.88046679017427
+744,Acaponeta,Guyong,Erickson-Anderson,Ruiz-Torres,MX,PH,America,Asia,85.01498321877959
+745,Bridgeport,Zacoalco de Torres,Davis LLC,Erickson-Anderson,US,MX,America,America,41.05227421912521
+746,Acaponeta,Tupiza,Whitaker-Guzman,Shields-Vasquez,MX,BO,America,America,11.432530362036285
+747,Chharra,Aklera,Galvan LLC,"Owens, Griffin and Martinez",IN,IN,Asia,Asia,98.35112649509655
+748,Pilar,Pilar,Novak-Brown,Reyes-Mitchell,PH,PH,Asia,Asia,95.00144792807012
+749,High Wycombe,Pontevedra,"West, King and Wilkerson","Phillips, Olson and Stewart",GB,AR,Europe,America,43.96227482261563
+750,Albstadt,Acaponeta,Santana-Curtis,Mccullough Group,DE,MX,Europe,America,96.7822718072589
+751,Sathyamangalam,Longview,Wilson Inc,Reyes-Mitchell,IN,US,Asia,America,82.5383407686387
+752,Cavaillon,Brentwood Estates,"Phillips, Olson and Stewart","Gregory, Morris and Brennan",FR,US,Europe,America,29.476251745861447
+753,Falconara Marittima,Vernon,"Jones, Mcpherson and Perez",Ruiz-Torres,IT,CA,Europe,America,18.82519822229828
+754,Pontevedra,Freetown,"Swanson, Freeman and White",Santana-Curtis,AR,SL,America,Africa,38.09771638352729
+755,Itacoatiara,Sar-e Pul,Cervantes PLC,"Huber, Lopez and Adams",BR,AF,America,Asia,87.21561719035115
+756,Les Olives,Jocotepec,Erickson-Anderson,"Swanson, Freeman and White",FR,MX,Europe,America,30.842882134286242
+757,Rwamagana,Tiruppuvanam,Wilson Inc,Davis LLC,RW,IN,Africa,Asia,36.36399651527786
+758,Marau,Pilar,"Diaz, Peterson and Copeland",Bowers-Allen,BR,PH,America,Asia,10.803761679940838
+759,Temse,Sillanwali,Reeves Ltd,Cervantes PLC,BE,PK,Europe,Asia,14.547559032392376
+760,Oschatz,North Lauderdale,Harris Ltd,Green and Sons,DE,US,Europe,America,98.29500386221504
+761,Brentwood Estates,Eastwood,Noble-Cohen,Whitaker-Guzman,US,AU,America,Australia,24.35593097060098
+762,Longview,Pilar,Harris Ltd,Smith Ltd,US,PH,America,Asia,54.18795702555237
+763,Sathyamangalam,Hueytown,Jones LLC,"Johnson, Brady and Hopkins",IN,US,Asia,America,63.872335842643324
+764,Lower Earley,Nkpor,"Clark, Sanchez and Garcia",Hawkins-Sanchez,GB,NG,Europe,Africa,77.14874448603949
+765,Hechingen,Utica,Galvan LLC,"Johnson, Brady and Hopkins",DE,US,Europe,America,81.15240384463874
+766,Roi Et,Catania,Fernandez-Norris,"Diaz, Peterson and Copeland",TH,IT,Asia,Europe,90.83046535181563
+767,Daud Khel,Cuenca,Orr Group,Erickson-Anderson,PK,EC,Asia,America,81.8115306267607
+768,East Jerusalem,Oschatz,Hawkins-Sanchez,Holden-Gutierrez,PS,DE,Asia,Europe,17.74464767987791
+769,Kafanchan,Zacoalco de Torres,"Doyle, Davenport and Bowman",Lara-Palmer,NG,MX,Africa,America,75.67861949935369
+770,Sar-e Pul,Bavly,"Owens, Griffin and Martinez",Foley and Sons,AF,RU,Asia,Europe,86.03838367590728
+771,Hoxtolgay,Daud Khel,Galvan LLC,Rosales and Sons,CN,PK,Asia,Asia,76.68988934748018
+772,Liaoyang,Hoxtolgay,Mccullough Group,"Diaz, Peterson and Copeland",CN,CN,Asia,Asia,95.0076005871407
+773,Sillanwali,Sathyamangalam,Humphrey-Goodwin,Ramirez and Sons,PK,IN,Asia,Asia,77.16748605540903
+774,Dawei,Gua Musang,Noble-Cohen,Mccullough Group,MM,MY,Asia,Asia,82.72478161606223
+775,Weimar,Perugia,Foley and Sons,Humphrey-Goodwin,DE,IT,Europe,Europe,1.9880777695337581
+776,Freetown,Severodvinsk,"Swanson, Freeman and White","Vasquez, Kline and Burnett",SL,RU,Africa,Europe,2.773752555937248
+777,Utica,Hechingen,Green and Sons,Hawkins-Sanchez,US,DE,America,Europe,56.503837161010516
+778,Nova Xavantina,Yablonovskiy,Rosales and Sons,Novak-Brown,BR,RU,America,Europe,87.992163591639
+779,Canavieiras,Lebanon,"Doyle, Davenport and Bowman",Harris Ltd,BR,US,America,America,82.7940124906841
+780,Severodvinsk,Muskogee,Friedman-Gonzalez,Shields-Vasquez,RU,US,Europe,America,50.02196492105215
+781,Pontevedra,Foshan,"Torres, Jensen and Vega",Cole-Diaz,AR,CN,America,Asia,94.39125549459845
+782,Paidha,Itacoatiara,"Wilkinson, Walls and Preston",Walker-Flores,UG,BR,Africa,America,86.9664629596043
+783,Albstadt,Dawei,Cole LLC,Davis LLC,DE,MM,Europe,Asia,74.70873974760607
+784,Sathyamangalam,Bavly,"Swanson, Freeman and White",Foley and Sons,IN,RU,Asia,Europe,78.0660281419723
+785,High Wycombe,Lanciano,Cole LLC,Orr Group,GB,IT,Europe,Europe,39.860196357590304
+786,Santa Catalina,Daud Khel,Brooks-Jones,"Jones, Gonzalez and Thompson",PH,PK,Asia,Asia,38.26608755536357
+787,Itacoatiara,Utica,Noble-Cohen,Rosales and Sons,BR,US,America,America,72.53477445483803
+788,Nkpor,Minas de Marcona,"Owens, Griffin and Martinez",Novak-Brown,NG,PE,Africa,America,40.95404539116766
+789,Halstenbek,Namerikawa,"Clark, Sanchez and Garcia",Smith Ltd,DE,JP,Europe,Asia,36.79084670258772
+790,Halstenbek,Collinwood,Walker Group,"Baker, Lyons and Rangel",DE,US,Europe,America,64.64677658787721
+791,Longview,Kafanchan,"Vasquez, Kline and Burnett",Mccullough Group,US,NG,America,Africa,90.27399806130904
+792,Falconara Marittima,Houthalen,Humphrey-Goodwin,Galvan LLC,IT,BE,Europe,Europe,83.45085593934691
+793,Lakewood,Temse,Lara-Palmer,"Wilkinson, Walls and Preston",US,BE,America,Europe,23.079082437704322
+794,Ushuaia,Les Olives,"Phillips, Olson and Stewart",Aguilar PLC,AR,FR,America,Europe,47.27192559371923
+795,Hueytown,Liaoyang,Cervantes PLC,Bowers-Allen,US,CN,America,Asia,12.643243542382665
+796,Gua Musang,Freetown,Walker Group,"Gregory, Morris and Brennan",MY,SL,Asia,Africa,91.53812572982923
+797,Opportunity,Perugia,Cole LLC,Green and Sons,US,IT,America,Europe,11.765602101996608
+798,Roi Et,Vernon,"Swanson, Freeman and White",Aguilar PLC,TH,CA,Asia,America,65.93468016889318
+799,Longview,Hechingen,Friedman-Gonzalez,"Doyle, Davenport and Bowman",US,DE,America,Europe,30.39852746717958
+800,Pilar,Hechingen,"Lewis, Sanchez and Harrison",Smith Ltd,PH,DE,Asia,Europe,52.28905992338322
+801,Zeist,North Lauderdale,Galvan LLC,Erickson-Anderson,NL,US,Europe,America,56.02004196915035
+802,Longview,Tucano,Reeves Ltd,Ruiz-Torres,US,BR,America,America,30.2830748673512
+803,Namerikawa,Bridgeport,Smith Ltd,Aguilar PLC,JP,US,Asia,America,10.573296006050658
+804,Paidha,Hechingen,Friedman-Gonzalez,"Doyle, Davenport and Bowman",UG,DE,Africa,Europe,67.7147439326254
+805,Falconara Marittima,Parkent,Fernandez-Norris,Hill PLC,IT,UZ,Europe,Asia,34.25785034002147
+806,Les Olives,Lebanon,Mccullough Group,Bowers-Allen,FR,US,Europe,America,24.80811583085688
+807,Tiruppuvanam,East Jerusalem,"Mcguire, Knapp and Nguyen","Torres, Jensen and Vega",IN,PS,Asia,Asia,33.52534059754372
+808,Collinwood,Pontevedra,"Johnson, Brady and Hopkins",Jones LLC,US,AR,America,America,16.598953013089524
+809,Randudongkal,North Lauderdale,Hill PLC,Thompson-Contreras,ID,US,Asia,America,87.40467786753997
+810,Weimar,Schwalmtal,Davis LLC,Novak-Brown,DE,DE,Europe,Europe,49.28610709246277
+811,Sar-e Pul,Catania,"Wilkinson, Walls and Preston",Thompson-Contreras,AF,IT,Asia,Europe,93.4996219115425
+812,Rwamagana,Collinwood,Novak-Brown,Mccullough Group,RW,US,Africa,America,43.91203714398173
+813,Zacoalco de Torres,Kenda,Young Inc,Santana-Curtis,MX,IN,America,Asia,69.845499589506
+814,Chharra,Daud Khel,"Doyle, Davenport and Bowman","Mcguire, Knapp and Nguyen",IN,PK,Asia,Asia,26.717365738024025
+815,Houthalen,Kafanchan,"Clark, Sanchez and Garcia",Jones LLC,BE,NG,Europe,Africa,22.238660127179788
+816,Houthalen,Lebanon,Walker-Flores,"Phillips, Olson and Stewart",BE,US,Europe,America,4.631688894308594
+817,Hechingen,Foshan,"Baker, Lyons and Rangel",Reyes-Mitchell,DE,CN,Europe,Asia,78.24045122594462
+818,Longview,Lagos,"Johnson, Brady and Hopkins",Hill PLC,US,NG,America,Africa,73.97033901996471
+819,Liaoyang,Itacoatiara,"Johnson, Brady and Hopkins",Santana-Curtis,CN,BR,Asia,America,15.375916165712821
+820,Itacoatiara,Cuenca,Davis LLC,Foley and Sons,BR,EC,America,America,80.58589924434727
+821,Opportunity,Utica,Reyes-Mitchell,"Huber, Lopez and Adams",US,US,America,America,46.10251923445334
+822,Canavieiras,Hechingen,"Clark, Sanchez and Garcia","Lewis, Sanchez and Harrison",BR,DE,America,Europe,9.657930437532292
+823,Cavaillon,Barnet,Cole-Diaz,Cole-Diaz,FR,GB,Europe,Europe,70.4115113234701
+824,Perugia,Jocotepec,Wilson Inc,"Phillips, Olson and Stewart",IT,MX,Europe,America,9.061077917583393
+825,Kaukauna,Mianwali,"Ray, Simpson and West",Cervantes PLC,US,PK,America,Asia,81.22623700738426
+826,Zeist,Sillanwali,Brooks-Jones,"West, King and Wilkerson",NL,PK,Europe,Asia,53.70679958528495
+827,Bridgeport,Sar-e Pul,"Owens, Griffin and Martinez",Noble-Cohen,US,AF,America,Asia,30.908777113593334
+828,Brentwood Estates,Vahdat,Reeves Ltd,Fernandez-Norris,US,TJ,America,Asia,4.128364912873295
+829,Roi Et,Weimar,"Mcguire, Knapp and Nguyen",Williams-Chen,TH,DE,Asia,Europe,16.769889894858725
+830,Longview,Kafanchan,Lara-Palmer,"Wilkinson, Walls and Preston",US,NG,America,Africa,74.8279416434538
+831,Kenda,Itacoatiara,"West, King and Wilkerson",Wang-Turner,IN,BR,Asia,America,91.18223176830969
+832,Barnet,Binnish,Davis LLC,Reeves Ltd,GB,SY,Europe,Asia,32.49076965428763
+833,Zeist,Lower Earley,Shields-Vasquez,Wilson Inc,NL,GB,Europe,Europe,37.395794233367305
+834,Kaukauna,Perugia,Shields-Vasquez,Fernandez-Norris,US,IT,America,Europe,50.577640132042056
+835,Vahdat,Dawei,Aguilar PLC,Davis LLC,TJ,MM,Asia,Asia,5.519214232695846
+836,Mianwali,Catania,"Lewis, Sanchez and Harrison",Walker Group,PK,IT,Asia,Europe,28.443989108758526
+837,Sillanwali,Cuenca,Hawkins-Sanchez,Friedman-Gonzalez,PK,EC,Asia,America,42.747736381603396
+838,Hoxtolgay,Utica,Hill PLC,Brooks-Jones,CN,US,Asia,America,89.06105581880091
+839,Jiangyan,Chharra,Young Inc,"Owens, Griffin and Martinez",CN,IN,Asia,Asia,23.855213514700225
+840,Kireyevsk,Vahdat,"Swanson, Freeman and White",Smith Ltd,RU,TJ,Europe,Asia,70.67085720362073
+841,Porterville,Ushuaia,Cole LLC,Harris Ltd,US,AR,America,America,54.88071119531776
+842,Zeist,Santa Catalina,Cole-Diaz,"Johnson, Brady and Hopkins",NL,PH,Europe,Asia,92.6450442191851
+843,Parkent,Gariadhar,"Lewis, Sanchez and Harrison",Reyes-Mitchell,UZ,IN,Asia,Asia,51.48051482897582
+844,Weimar,Minas de Marcona,"Jones, Gonzalez and Thompson",Orr Group,DE,PE,Europe,America,50.12478905740883
+845,Cuenca,Lakewood,"Clark, Sanchez and Garcia",Thompson-Contreras,EC,US,America,America,77.29895541217368
+846,Bridgeport,Bridgeport,"Owens, Griffin and Martinez",Wang-Turner,US,US,America,America,71.90821489151915
+847,High Wycombe,Lebanon,Aguilar PLC,Orr Group,GB,US,Europe,America,26.924725882581345
+848,Kafanchan,Roi Et,Fernandez-Norris,"Jones, Gonzalez and Thompson",NG,TH,Africa,Asia,4.88201860501829
+849,Schwalmtal,Ushuaia,Wang-Turner,Green and Sons,DE,AR,Europe,America,58.09492597118685
+850,Hueytown,Sun City Center,Davis LLC,Noble-Cohen,US,US,America,America,10.454823564299964
+851,Nova Xavantina,Kafanchan,Davis LLC,"Jones, Mcpherson and Perez",BR,NG,America,Africa,6.757142224782797
+852,Vahdat,Chharra,Wang-Turner,Harris Ltd,TJ,IN,Asia,Asia,99.07204031624507
+853,Sun City Center,Collinwood,Whitaker-Guzman,Young Inc,US,US,America,America,70.05679862105302
+854,Gua Musang,Pilar,"Baker, Lyons and Rangel",Smith Ltd,MY,PH,Asia,Asia,84.6052474092591
+855,Halstenbek,Guyong,"Clark, Sanchez and Garcia",Cole-Diaz,DE,PH,Europe,Asia,79.059578825092
+856,Gua Musang,Guyong,"Torres, Jensen and Vega",Walker Group,MY,PH,Asia,Asia,21.495122272044153
+857,Bavly,Sar-e Pul,Walker-Flores,"Jones, Gonzalez and Thompson",RU,AF,Europe,Asia,68.13490544873383
+858,Longview,Kenda,Hill PLC,Rosales and Sons,US,IN,America,Asia,64.1563934420673
+859,Yablonovskiy,Les Olives,"Lewis, Sanchez and Harrison",Davis LLC,RU,FR,Europe,Europe,59.28464322398478
+860,Catania,Hechingen,"Jones, Gonzalez and Thompson","Lewis, Sanchez and Harrison",IT,DE,Europe,Europe,99.95023697877677
+861,Paidha,Lanciano,"Jones, Mcpherson and Perez","Ray, Simpson and West",UG,IT,Africa,Europe,96.47013095572748
+862,Kireyevsk,Rwamagana,"Mcguire, Knapp and Nguyen",Cervantes PLC,RU,RW,Europe,Africa,90.18253963584412
+863,Porterville,Mianwali,"Baker, Lyons and Rangel",Davis LLC,US,PK,America,Asia,40.20295661673568
+864,East Dereham,Lakewood,"Jones, Gonzalez and Thompson",Hill PLC,GB,US,Europe,America,26.738255709937064
+865,Roi Et,Vahdat,"Johnson, Brady and Hopkins",Lara-Palmer,TH,TJ,Asia,Asia,52.44134998346036
+866,Vernon,Itacoatiara,"West, King and Wilkerson","Jones, Mcpherson and Perez",CA,BR,America,America,90.68783500613617
+867,Cavaillon,Freetown,Walker-Flores,"Johnson, Brady and Hopkins",FR,SL,Europe,Africa,64.82713956953887
+868,Malakhovka,Bonoua,Bowers-Allen,"Jones, Gonzalez and Thompson",RU,CI,Europe,Africa,8.330652643530334
+869,Canavieiras,Daud Khel,Mccullough Group,Walker Group,BR,PK,America,Asia,18.520242966246535
+870,High Wycombe,Jiangyan,Foley and Sons,Fernandez-Norris,GB,CN,Europe,Asia,88.68857862447499
+871,Yablonovskiy,Longview,Friedman-Gonzalez,"Jones, Gonzalez and Thompson",RU,US,Europe,America,57.6971583823476
+872,Muskogee,Jiangyan,Santana-Curtis,"Baker, Lyons and Rangel",US,CN,America,Asia,68.8589170987043
+873,Chharra,Porterville,Harris Ltd,"Owens, Griffin and Martinez",IN,US,Asia,America,50.16899615661482
+874,Qadirpur Ran,Aklera,Aguilar PLC,"Clark, Sanchez and Garcia",PK,IN,Asia,Asia,79.66571066192537
+875,Esmeraldas,Lakewood,"Lewis, Sanchez and Harrison","Ray, Simpson and West",BR,US,America,America,62.19838033435832
+876,Lakewood,Marau,Santana-Curtis,Young Inc,US,BR,America,America,97.63183345120056
+877,Sathyamangalam,Brentwood Estates,Davis LLC,Whitaker-Guzman,IN,US,Asia,America,88.18784758036377
+878,High Wycombe,Nkpor,Bowers-Allen,Ruiz-Torres,GB,NG,Europe,Africa,51.80348575133591
+879,Lower Earley,Bavly,Rosales and Sons,Hill PLC,GB,RU,Europe,Europe,33.06766541412556
+880,Aklera,Kaukauna,Davis LLC,Wang-Turner,IN,US,Asia,America,73.67497770933379
+881,Freetown,Cuenca,Santana-Curtis,Holden-Gutierrez,SL,EC,Africa,America,79.9116449200924
+882,Weimar,Hechingen,Foley and Sons,Smith Ltd,DE,DE,Europe,Europe,88.08901524564165
+883,Daud Khel,Pilar,Fernandez-Norris,Orr Group,PK,PH,Asia,Asia,42.607798443980286
+884,Hoxtolgay,East Jerusalem,Novak-Brown,Williams-Chen,CN,PS,Asia,Asia,20.782558123617058
+885,Acaponeta,Yablonovskiy,Erickson-Anderson,Ruiz-Torres,MX,RU,America,Europe,2.8937735575545465
+886,Santa Catalina,Daud Khel,Davis LLC,Walker Group,PH,PK,Asia,Asia,68.56778845133218
+887,Roi Et,Okahandja,Smith Ltd,Cole LLC,TH,NA,Asia,Africa,21.11179134806822
+888,Marau,Daud Khel,Wang-Turner,Wilson Inc,BR,PK,America,Asia,56.0793872116008
+889,Zeist,Hechingen,"Owens, Griffin and Martinez",Ruiz-Torres,NL,DE,Europe,Europe,2.939836466980439
+890,Minas de Marcona,Namerikawa,Davis LLC,Green and Sons,PE,JP,America,Asia,17.242723043481732
+891,Tupiza,Lakewood,Orr Group,Whitaker-Guzman,BO,US,America,America,47.47513608902288
+892,Jocotepec,Lebanon,"Wilkinson, Walls and Preston",Foley and Sons,MX,US,America,America,12.44145950642942
+893,Kafanchan,Columbia Heights,Whitaker-Guzman,"Owens, Griffin and Martinez",NG,US,Africa,America,99.84378160459457
+894,Itacoatiara,Yablonovskiy,"Torres, Jensen and Vega",Humphrey-Goodwin,BR,RU,America,Europe,93.17403144071784
+895,Opportunity,Chharra,Thompson-Contreras,Wang-Turner,US,IN,America,Asia,26.892838522855968
+896,Lagos,Oschatz,Galvan LLC,"Doyle, Davenport and Bowman",NG,DE,Africa,Europe,82.32513250078583
+897,Tiruppuvanam,Paidha,Humphrey-Goodwin,Ramirez and Sons,IN,UG,Asia,Africa,15.011846059587697
+898,Lagos,Hechingen,Cervantes PLC,Rosales and Sons,NG,DE,Africa,Europe,1.3611411597757583
+899,Falconara Marittima,Temse,Erickson-Anderson,"Jones, Mcpherson and Perez",IT,BE,Europe,Europe,63.48194237927734
+900,Houthalen,High Wycombe,"Lewis, Sanchez and Harrison",Cervantes PLC,BE,GB,Europe,Europe,76.95391653142573
+901,Sillanwali,Tupiza,"Ray, Simpson and West",Cervantes PLC,PK,BO,Asia,America,47.60350067043583
+902,Gariadhar,Albstadt,"Doyle, Davenport and Bowman",Williams-Chen,IN,DE,Asia,Europe,96.89261088617076
+903,Cavaillon,Schwalmtal,"Baker, Lyons and Rangel",Erickson-Anderson,FR,DE,Europe,Europe,82.42452866959079
+904,High Wycombe,Temse,"West, King and Wilkerson","Vasquez, Kline and Burnett",GB,BE,Europe,Europe,42.94361508655559
+905,Pilar,Acaponeta,Orr Group,"Huber, Lopez and Adams",PH,MX,Asia,America,66.15096430363498
+906,Aklera,Nkpor,Mccullough Group,Wilson Inc,IN,NG,Asia,Africa,95.6548719041453
+907,Houthalen,Dawei,Smith Ltd,"Huber, Lopez and Adams",BE,MM,Europe,Asia,73.20334924082914
+908,Gua Musang,Kafanchan,"Clark, Sanchez and Garcia","Ray, Simpson and West",MY,NG,Asia,Africa,32.059184105409486
+909,Tucano,Minas de Marcona,Hill PLC,"Doyle, Davenport and Bowman",BR,PE,America,America,58.04963137817042
+910,Mianwali,Halstenbek,Cole LLC,Ruiz-Torres,PK,DE,Asia,Europe,13.34113464763137
+911,Yablonovskiy,Lower Earley,Hill PLC,Reyes-Mitchell,RU,GB,Europe,Europe,10.007032858507603
+912,Qadirpur Ran,Cuenca,"Owens, Griffin and Martinez","West, King and Wilkerson",PK,EC,Asia,America,19.509393614988824
+913,Schererville,Gua Musang,Novak-Brown,"Jones, Gonzalez and Thompson",US,MY,America,Asia,32.93969788986423
+914,Kenda,Casa Blanca,"Vasquez, Kline and Burnett",Mccullough Group,IN,MX,Asia,America,27.905703406908255
+915,Falconara Marittima,Bonoua,Thompson-Contreras,Wang-Turner,IT,CI,Europe,Africa,40.61304800404586
+916,Randudongkal,Eastwood,"Baker, Lyons and Rangel","Jones, Gonzalez and Thompson",ID,AU,Asia,Australia,40.058134810985635
+917,Foshan,Hueytown,Davis LLC,Thompson-Contreras,CN,US,Asia,America,44.83379867714703
+918,Sar-e Pul,Kaukauna,Smith Ltd,Friedman-Gonzalez,AF,US,Asia,America,74.3360229195574
+919,Esmeraldas,Hechingen,Foley and Sons,Brooks-Jones,BR,DE,America,Europe,42.74384541440317
+920,Gua Musang,Les Olives,Cervantes PLC,Fernandez-Norris,MY,FR,Asia,Europe,40.56658434890649
+921,North Lauderdale,Weimar,"Diaz, Peterson and Copeland",Fernandez-Norris,US,DE,America,Europe,76.1897131065684
+922,Paidha,Temse,Fernandez-Norris,Fernandez-Norris,UG,BE,Africa,Europe,37.018907133327914
+923,Bavly,Temse,Brooks-Jones,"Jones, Mcpherson and Perez",RU,BE,Europe,Europe,18.959442282270366
+924,Dawei,Scarsdale,"Torres, Jensen and Vega",Ramirez and Sons,MM,US,Asia,America,25.70488940837783
+925,Santa Catalina,Roi Et,Novak-Brown,Santana-Curtis,PH,TH,Asia,Asia,62.125318218270756
+926,Pilar,Gua Musang,Novak-Brown,Thompson-Contreras,PH,MY,Asia,Asia,72.55397049893658
+927,Hueytown,Tiruppuvanam,Wang-Turner,"Doyle, Davenport and Bowman",US,IN,America,Asia,7.103599362167823
+928,North Lauderdale,Lebanon,"Baker, Lyons and Rangel",Humphrey-Goodwin,US,US,America,America,0.313477899964798
+929,Nova Xavantina,Schwalmtal,"Vasquez, Kline and Burnett",Lara-Palmer,BR,DE,America,Europe,71.42891915251315
+930,Weimar,Kenda,"Torres, Jensen and Vega","Owens, Griffin and Martinez",DE,IN,Europe,Asia,73.30874691185939
+931,Pontevedra,Vernon,"Johnson, Brady and Hopkins",Williams-Chen,AR,CA,America,America,11.681655079947252
+932,Kaukauna,Santa Catalina,"Mcguire, Knapp and Nguyen",Bowers-Allen,US,PH,America,Asia,76.48998181338578
+933,Eastwood,Collinwood,Jones LLC,Green and Sons,AU,US,Australia,America,81.78777850440039
+934,Hueytown,Daud Khel,Whitaker-Guzman,Walker Group,US,PK,America,Asia,46.662212079468325
+935,Cuenca,Malakhovka,Whitaker-Guzman,"Doyle, Davenport and Bowman",EC,RU,America,Europe,50.407466831160775
+936,Rwamagana,Yablonovskiy,Mccullough Group,"Johnson, Brady and Hopkins",RW,RU,Africa,Europe,33.67613353073323
+937,Itacoatiara,Hechingen,Noble-Cohen,Wang-Turner,BR,DE,America,Europe,81.21142166959778
+938,Taozhuang,Aklera,"Lewis, Sanchez and Harrison",Walker Group,CN,IN,Asia,Asia,73.5723624748918
+939,Canavieiras,Schwalmtal,Galvan LLC,"Gregory, Morris and Brennan",BR,DE,America,Europe,27.572717770105015
+940,Nova Xavantina,Porterville,Ruiz-Torres,"Jones, Gonzalez and Thompson",BR,US,America,America,72.25921567442653
+941,Opportunity,Scarsdale,Thompson-Contreras,Noble-Cohen,US,US,America,America,42.481561711009554
+942,Liaoyang,Schwalmtal,Lara-Palmer,Williams-Chen,CN,DE,Asia,Europe,53.27536483690469
+943,Freetown,Vahdat,"Gregory, Morris and Brennan","Ray, Simpson and West",SL,TJ,Africa,Asia,15.15367714961643
+944,Sathyamangalam,Collinwood,"Mcguire, Knapp and Nguyen",Santana-Curtis,IN,US,Asia,America,91.68555749725846
+945,Casa Blanca,Lagos,Harris Ltd,Hill PLC,MX,NG,America,Africa,51.87435217184845
+946,Daud Khel,Albstadt,Noble-Cohen,"Lewis, Sanchez and Harrison",PK,DE,Asia,Europe,60.29968391525351
+947,Cavaillon,Temse,Whitaker-Guzman,"Torres, Jensen and Vega",FR,BE,Europe,Europe,83.76474025235886
+948,Opportunity,Cuenca,Mccullough Group,"Huber, Lopez and Adams",US,EC,America,America,43.1420832075067
+949,Lakewood,High Wycombe,Friedman-Gonzalez,Whitaker-Guzman,US,GB,America,Europe,40.39421364603538
+950,Perugia,Vernon,Wang-Turner,"Phillips, Olson and Stewart",IT,CA,Europe,America,84.73624556940061
+951,Lagos,Vernon,Rosales and Sons,Whitaker-Guzman,NG,CA,Africa,America,56.215772244912266
+952,Lakewood,Eastwood,Hill PLC,Reyes-Mitchell,US,AU,America,Australia,65.8245820051867
+953,Jiangyan,Perugia,Fernandez-Norris,Ruiz-Torres,CN,IT,Asia,Europe,89.21619224860348
+954,Foshan,Cuenca,"Owens, Griffin and Martinez",Smith Ltd,CN,EC,Asia,America,6.296441171956979
+955,Pontevedra,Paidha,Orr Group,Thompson-Contreras,AR,UG,America,Africa,2.9888749096764644
+956,Lakewood,Nova Xavantina,Erickson-Anderson,"Phillips, Olson and Stewart",US,BR,America,America,82.40928363707835
+957,Vahdat,Zeist,Lara-Palmer,"Lewis, Sanchez and Harrison",TJ,NL,Asia,Europe,12.338027912655903
+958,Weimar,Zeist,Cervantes PLC,"Gregory, Morris and Brennan",DE,NL,Europe,Europe,84.77697549870508
+959,Kaukauna,Bavly,Humphrey-Goodwin,Thompson-Contreras,US,RU,America,Europe,84.23039834740639
+960,Hechingen,Jiangyan,Young Inc,"Johnson, Brady and Hopkins",DE,CN,Europe,Asia,30.890850364279455
+961,Muskogee,Roi Et,"Lewis, Sanchez and Harrison",Reyes-Mitchell,US,TH,America,Asia,83.22252377517188
+962,Ushuaia,Lanciano,"Owens, Griffin and Martinez",Davis LLC,AR,IT,America,Europe,58.16374515338746
+963,Les Olives,Jocotepec,Wilson Inc,"Ray, Simpson and West",FR,MX,Europe,America,85.58394375109482
+964,Columbia Heights,Catania,Smith Ltd,Shields-Vasquez,US,IT,America,Europe,19.227715479842765
+965,Bhuban,Hechingen,"Doyle, Davenport and Bowman","Baker, Lyons and Rangel",IN,DE,Asia,Europe,15.797430411649582
+966,Pilar,Weimar,"Huber, Lopez and Adams",Whitaker-Guzman,PH,DE,Asia,Europe,1.9098848297273374
+967,Aklera,Barnet,Foley and Sons,"Jones, Gonzalez and Thompson",IN,GB,Asia,Europe,74.3597756068181
+968,Foshan,Guyong,Young Inc,Reyes-Mitchell,CN,PH,Asia,Asia,81.40410645953583
+969,Hechingen,Sar-e Pul,Santana-Curtis,"Torres, Jensen and Vega",DE,AF,Europe,Asia,6.081325055351217
+970,Itacoatiara,Kireyevsk,"Huber, Lopez and Adams","Torres, Jensen and Vega",BR,RU,America,Europe,93.77632549515587
+971,Zacoalco de Torres,Binnish,"Baker, Lyons and Rangel","Huber, Lopez and Adams",MX,SY,America,Asia,30.319779241491705
+972,Bavly,Tiruppuvanam,Walker-Flores,Davis LLC,RU,IN,Europe,Asia,35.776670587279455
+973,Opportunity,Taozhuang,Cervantes PLC,Walker-Flores,US,CN,America,Asia,65.32705301118807
+974,Barnet,Hoxtolgay,Davis LLC,Foley and Sons,GB,CN,Europe,Asia,52.90601660045441
+975,Malakhovka,Randudongkal,"Clark, Sanchez and Garcia","Vasquez, Kline and Burnett",RU,ID,Europe,Asia,78.92927518225439
+976,Sar-e Pul,Catania,"Lewis, Sanchez and Harrison",Foley and Sons,AF,IT,Asia,Europe,29.538506218843906
+977,Aklera,Nova Xavantina,Aguilar PLC,Brooks-Jones,IN,BR,Asia,America,30.81418569015456
+978,Kaukauna,Jocotepec,"Jones, Mcpherson and Perez","Swanson, Freeman and White",US,MX,America,America,31.850588758913855
+979,Temse,Minas de Marcona,Galvan LLC,Williams-Chen,BE,PE,Europe,America,96.2325933881205
+980,Casa Blanca,Lagos,Young Inc,"Wilkinson, Walls and Preston",MX,NG,America,Africa,85.8134183452822
+981,Kenda,Sar-e Pul,Walker-Flores,Hawkins-Sanchez,IN,AF,Asia,Asia,39.276876793583895
+982,Lakewood,Albstadt,Green and Sons,"Diaz, Peterson and Copeland",US,DE,America,Europe,64.02260098036317
+983,Longview,Pilar,Mccullough Group,Rosales and Sons,US,PH,America,Asia,84.31206242028418
+984,Acaponeta,Foshan,"West, King and Wilkerson","Jones, Gonzalez and Thompson",MX,CN,America,Asia,92.5561149688946
+985,Sathyamangalam,Guyong,Cole LLC,Shields-Vasquez,IN,PH,Asia,Asia,46.99943368704934
+986,High Wycombe,Paidha,Davis LLC,"West, King and Wilkerson",GB,UG,Europe,Africa,0.5885904294891109
+987,Ushuaia,Kireyevsk,"Jones, Mcpherson and Perez","West, King and Wilkerson",AR,RU,America,Europe,13.757489542656076
+988,Guyong,Oschatz,Friedman-Gonzalez,Harris Ltd,PH,DE,Asia,Europe,49.8857055134005
+989,Mianwali,Daud Khel,Cervantes PLC,"Mcguire, Knapp and Nguyen",PK,PK,Asia,Asia,66.52707911086256
+990,Liaoyang,Okahandja,"Swanson, Freeman and White",Friedman-Gonzalez,CN,NA,Asia,Africa,29.70656278769136
+991,Vahdat,Minas de Marcona,Wilson Inc,Mccullough Group,TJ,PE,Asia,America,72.9666778784703
+992,Nkpor,Liaoyang,Cole-Diaz,Mccullough Group,NG,CN,Africa,Asia,63.673648303548816
+993,Pontevedra,Perugia,Hill PLC,Shields-Vasquez,AR,IT,America,Europe,42.904277736367305
+994,Paidha,Roi Et,"Phillips, Olson and Stewart",Walker Group,UG,TH,Africa,Asia,1.298731084448801
+995,Scarsdale,Daud Khel,"Swanson, Freeman and White","Mcguire, Knapp and Nguyen",US,PK,America,Asia,71.4143765124445
+996,Gua Musang,Opportunity,Bowers-Allen,Hill PLC,MY,US,Asia,America,26.34195041751933
+997,Guyong,Columbia Heights,Wilson Inc,"Clark, Sanchez and Garcia",PH,US,Asia,America,33.543570615441155
+998,Parkent,Temse,Young Inc,Santana-Curtis,UZ,BE,Asia,Europe,7.170154730760315
+999,Parkent,Schererville,Smith Ltd,Friedman-Gonzalez,UZ,US,Asia,America,50.410693955778676
