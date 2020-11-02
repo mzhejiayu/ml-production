@@ -1,27 +1,13 @@
 from dataclasses import dataclass
-from ..dataproc import create_sk_pipe, InfoCompressor
-from sklearn.pipeline import Pipeline
 import os
-import pandas as pd
-import pytest
 from pathlib import Path
 
-curdir = Path(__file__).parent
+from joblib import load
+import pandas as pd
+import pytest
+from sklearn.pipeline import Pipeline
 
-
-@pytest.fixture
-def df():
-    return pd.read_csv(curdir / "test_training_data.csv")
-
-
-@pytest.fixture
-def df2():
-    return pd.DataFrame(
-        {
-            "city1": ["c1", "c2", "c3", "c4", "c2", "c1", "c1"],
-            "target": [1, 2, 3, 4, 5, 6, 7],
-        }
-    )
+from ..dataproc import InfoCompressor, create_sk_pipe, train_sk_pipe
 
 
 def test_info_compressor(df2):
@@ -58,3 +44,14 @@ def test_create_sk_pipe(df):
     X_transformed = pipe.fit_transform(X, y)
     assert X_transformed.shape[0] == len(X)
     assert 11 * 6 + 7 * 2 > X_transformed.shape[1] > len(X.columns)
+
+
+def test_train_sk_pipe(df):
+    fname = "example.joblib"
+    train_sk_pipe(fname, df)
+    assert os.path.exists(fname)
+
+    pipe = load(fname)
+    assert isinstance(pipe, Pipeline)
+    assert len(pipe.steps) > 0
+    os.remove(fname)

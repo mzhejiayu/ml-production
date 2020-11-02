@@ -20,6 +20,16 @@ def extract_geo_info(tuple_record) -> Tuple[str, str, str]:
 
 
 def gen_data(nrows: int, num_location=100, num_isps=60):
+    """Generator function
+
+    Args:
+        nrows (int): [description]
+        num_location (int, optional): [description]. Defaults to 100.
+        num_isps (int, optional): [description]. Defaults to 60.
+
+    Yields:
+        [type]: [description]
+    """
     fake = Faker()
 
     # ListOfLocations

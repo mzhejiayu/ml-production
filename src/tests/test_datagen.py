@@ -4,24 +4,6 @@ from jsonschema import validate
 from ..datagen import extract_geo_info, gen_data, gen_csv
 
 
-@pytest.fixture
-def schema():
-    return {
-        "type": "object",
-        "properties": {
-            "city1": {"type": "string"},
-            "city2": {"type": "string"},
-            "country1": {"type": "string"},
-            "country2": {"type": "string"},
-            "isp1": {"type": "string"},
-            "isp2": {"type": "string"},
-            "continent1": {"type": "string"},
-            "continent2": {"type": "string"},
-            "target": {"type": "number"},
-        },
-    }
-
-
 def test_extract_geo_info():
     c, c1, c2 = extract_geo_info(
         ("34.95303", "-120.43572", "Santa Maria", "US", "America/Los_Angeles")

@@ -12,7 +12,11 @@ app = Flask(__name__)
 app.config.from_pyfile("settings.cfg")
 app.cli.add_command(data_cli)
 
-request_schema = {"type": "array", "defautt": [], "items": {"type": "string"}}
+request_schema = {
+    "type": "array",
+    "default": [],
+    "items": {"type": "array", "default": [], "items": {"type": "string"}},
+}
 
 
 @app.errorhandler(ValidationError)
