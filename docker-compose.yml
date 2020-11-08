@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+   
+  mlproduction:
+    image: mlproduction
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 5000:5000
+    environment:
+      - FLASK_APP=/app/src/server.py
+      - MLP_TFS_URL=http://tfs:8501
+      - MLP_PIPE_PATH=/app/pipeline.joblib
+    depends_on: 
+      - tfs
+    volumes:
+      - ./src/tests/test_pipe.joblib:/app/pipeline.joblib
+    command:
+      - pipenv
+      - run
+      - flask
+      - run
+      - -h
+      - '0.0.0.0'
+
+  tfs:
+    image: tensorflow/serving
+    ports:
+      - 8501:8501 
+    environment:
+      - MODEL_NAME=tp_pred
+    volumes:
+      - ./src/tests/saved_model:/models/tp_pred/00001
