@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  tfs:
+    image: tensorflow/serving
+    ports:
+      - 8501:8501 
+    environment:
+      - MODEL_NAME=tp_pred
+    volumes:
+      - ./saved_model:/models/tp_pred/00001
