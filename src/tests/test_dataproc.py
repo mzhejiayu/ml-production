@@ -46,9 +46,9 @@ def test_create_sk_pipe(df):
     assert 11 * 6 + 7 * 2 > X_transformed.shape[1] > len(X.columns)
 
 
-def test_train_sk_pipe(df):
+def test_train_sk_pipe(xy):
     fname = "example.joblib"
-    train_sk_pipe(fname, df)
+    train_sk_pipe(fname, xy[0])
     assert os.path.exists(fname)
 
     pipe = load(fname)
