@@ -63,7 +63,7 @@ def create_sk_pipe(config: List[int] = [10, 10, 10, 10, 6, 6, 10, 10]) -> Pipeli
     p = Pipeline(
         l_info_compressors
         + [
-            ("onehot", OneHotEncoder(sparse=False)),
+            ("onehot", OneHotEncoder(sparse=False, handle_unknown="ignore")),
             ("scaler", StandardScaler(with_mean=False)),
         ]
     )
