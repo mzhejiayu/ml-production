@@ -21,13 +21,13 @@ class Encoder:
         df = pd.DataFrame(raw_data)
         df.columns = [
             "city1",
-            "city2",
-            "isp1",
-            "isp2",
             "country1",
-            "country2",
             "continent1",
+            "isp1",
+            "city2",
+            "country2",
             "continent2",
+            "isp2",
         ]
 
         return self.pipe.transform(df)

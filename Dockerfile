@@ -11,6 +11,7 @@ ADD Pipfile .
 RUN pipenv install --skip-lock
 
 ADD src /app/src
+ADD pipeline /pipeline
 WORKDIR /app/src
 
 CMD [ "pipenv", "run", "flask", "run" ]

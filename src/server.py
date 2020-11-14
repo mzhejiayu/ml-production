@@ -4,6 +4,7 @@ import requests
 from flask import Flask, current_app, g, has_app_context, jsonify, request, abort
 from joblib import load
 from jsonschema import ValidationError, validate
+import redis
 
 from .encoder import Encoder
 
@@ -42,6 +43,14 @@ def get_encoder():
         return g.encoder
 
 
+def get_redis():
+    if has_app_context():
+        path = current_app.config["REDIS_HOST"]
+        if "redis" not in g:
+            g.redis = redis.Redis(host=path, port=6379, db=0)
+        return g.redis
+
+
 @app.errorhandler(ValidationError)
 def handle_error(err):
     return {"message": str(err)}
@@ -53,9 +62,10 @@ def prediction():
     validate(data, request_schema)
 
     matrix = get_encoder().encode(data).tolist()
+    get_redis().set(f"ml:{request.args.get('pid')}", "enabled")
 
     res = requests.post(
-        current_app.config["TFS_URL"] + "/v1/models/tp_pred:predict",
+        current_app.config["TFS_URL"] + "/v1/models/model:predict",
         data=json.dumps({"instances": matrix}),
     )
 
@@ -69,4 +79,4 @@ def tfs_healthcheck():
     res = requests.get(app.config["TFS_URL"], timeout=0.01)
 
 
-tfs_healthcheck()
+# tfs_healthcheck()

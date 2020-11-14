@@ -1,9 +1,15 @@
-from flask.cli import AppGroup
-from .dataproc import train_sk_pipe
-import pandas as pd
-import click
-from .datagen import gen_csv
 from pathlib import Path
+from src.model import create_model
+
+import click
+import joblib
+import pandas as pd
+from flask.cli import AppGroup
+
+from src.encoder import Encoder
+
+from .datagen import gen_csv
+from .dataproc import create_sk_pipe, train_sk_pipe
 
 data_cli = AppGroup("data")
 
@@ -27,3 +33,42 @@ def gen_pipe(dpath, path):
     X = df.iloc[:, 1:-1]
 
     train_sk_pipe(path, X)
+
+
+@data_cli.command("train-pipe")
+@click.option("--dpath", default="data.csv")
+@click.option("--path", default="pipeline/pipe.joblib")
+def train_pipe(dpath, path):
+
+    if dpath.endswith(".csv"):
+        d = pd.read_csv(dpath)
+    else:
+        raise ValueError("data format is not supported")
+
+    x = d.iloc[:, 1:-1]
+    print("We have a dataframe of len=", len(x))
+    train_sk_pipe(path, x)
+
+
+@data_cli.command("train-model")
+@click.option("--dpath", default="data.csv")
+@click.option("--ppath", default="pipeline/pipe.joblib")
+@click.option("--epoch", default=10)
+@click.option("--version", prompt=True)
+def train_model(dpath, ppath, epoch, version):
+    if dpath.endswith(".csv"):
+        d = pd.read_csv(dpath)
+    else:
+        raise ValueError("data format is not supported")
+
+    pipe = joblib.load(ppath)
+    encoder = Encoder(pipe)
+    x = encoder.encode(d.iloc[:, 1:-1])
+
+    m = create_model(
+        [
+            x.shape[1],
+        ]
+    )
+    m.fit(x, d.iloc[:, -1], batch_size=1000, epochs=epoch)
+    m.save(f"model/{version}")

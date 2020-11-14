@@ -1,0 +1,16 @@
+apiVersion: skaffold/v1
+kind: Config
+build:
+  artifacts:
+  - image: ml-production
+    context: .
+    docker:
+      dockerfile: Dockerfile
+  - image: tf-model
+    context: .
+    docker:
+      dockerfile: Dockerfile.serving
+deploy:
+  kubectl:
+    manifests:
+      - kubernetes/**

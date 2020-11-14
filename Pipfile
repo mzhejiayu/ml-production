@@ -16,6 +16,7 @@ flask = "*"
 jsonschema = "*"
 faker = "*"
 coverage = "*"
+redis = "*"
 
 [requires]
 python_version = "3.8"

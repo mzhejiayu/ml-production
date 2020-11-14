@@ -26,10 +26,8 @@ services:
       - '0.0.0.0'
 
   tfs:
-    image: tensorflow/serving
+    build: 
+      context: .
+      dockerfile: ./Dockerfile.serving
     ports:
       - 8501:8501 
-    environment:
-      - MODEL_NAME=tp_pred
-    volumes:
-      - ./src/tests/saved_model:/models/tp_pred/00001

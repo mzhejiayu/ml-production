@@ -72,7 +72,9 @@ def create_sk_pipe(config: List[int] = [10, 10, 10, 10, 6, 6, 10, 10]) -> Pipeli
 
 def train_sk_pipe(dest_path, X: pd.DataFrame, **kwargs):
     pipe = create_sk_pipe(**kwargs)
+    print("Fitting...")
     pipe.fit(X)
+    print("Dumping...")
     joblib.dump(pipe, dest_path)
 
 
