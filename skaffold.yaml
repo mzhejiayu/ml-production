@@ -1,4 +1,4 @@
-apiVersion: skaffold/v1
+apiVersion: skaffold/v2beta9
 kind: Config
 build:
   artifacts:
@@ -12,5 +12,6 @@ build:
       dockerfile: Dockerfile.serving
 deploy:
   kubectl:
+    defaultNamespace: prod
     manifests:
       - kubernetes/**

@@ -43,26 +43,27 @@ def get_encoder():
         return g.encoder
 
 
-def get_redis():
-    if has_app_context():
-        path = current_app.config["REDIS_HOST"]
-        if "redis" not in g:
-            g.redis = redis.Redis(host=path, port=6379, db=0)
-        return g.redis
-
-
 @app.errorhandler(ValidationError)
 def handle_error(err):
     return {"message": str(err)}
 
 
+@app.route("/healthcheck")
+def healthcheck():
+    return "OK"
+
+
 @app.route("/v1/prediction", methods=["POST"])
 def prediction():
-    data = request.get_json()
+
+    data = json.loads(request.get_data())
+
     validate(data, request_schema)
 
-    matrix = get_encoder().encode(data).tolist()
-    get_redis().set(f"ml:{request.args.get('pid')}", "enabled")
+    try:
+        matrix = get_encoder().encode(data).tolist()
+    except ValueError:
+        return jsonify({"predictions": [[1] for i in range(len(data))]})
 
     res = requests.post(
         current_app.config["TFS_URL"] + "/v1/models/model:predict",
@@ -72,7 +73,8 @@ def prediction():
     if res.status_code != 200:
         abort(res.status_code, description=f"{res}")
     else:
-        return jsonify(res.json())
+        json_data = res.json()
+        return jsonify(json_data)
 
 
 def tfs_healthcheck():

@@ -22,10 +22,12 @@ spec:
             value: http://localhost:8501
           - name: MLP_PIPE_PATH
             value: /pipeline/pipe.joblib
-          - name: MLP_REDIS_HOST
-            value: redis-ps
           - name: FLASK_APP
             value: /app/src/server.py
+          - name: FLASK_DEBUG
+            value: "true"
+          - name: PYTHONUNBUFFERED
+            value: "1"
         command:
           - pipenv
           - run
