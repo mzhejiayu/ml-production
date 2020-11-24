@@ -15,35 +15,6 @@ spec:
       imagePullSecrets:
         - name: gcr-json-key
       containers:
-      - name: ml-production
-        image: ml-production
-        env:
-          - name: MLP_TFS_URL
-            value: http://localhost:8501
-          - name: MLP_PIPE_PATH
-            value: /pipeline/pipe.joblib
-          - name: FLASK_APP
-            value: /app/src/server.py
-          - name: FLASK_DEBUG
-            value: "true"
-          - name: PYTHONUNBUFFERED
-            value: "1"
-        command:
-          - pipenv
-          - run
-          - flask
-          - run
-          - -h
-          - 0.0.0.0
-        resources:
-          requests:
-            memory: "320Mi"
-            cpu: "100m"
-          limits:
-            memory: "2Gi"
-            cpu: "1"
-        ports:
-        - containerPort: 5000
       - name: tf-model
         image: tf-model
         resources:
@@ -66,5 +37,5 @@ spec:
   selector:
     app: ml-production 
   ports:
-  - port: 5000
-    targetPort: 5000
+  - port: 8501
+    targetPort: 8501
