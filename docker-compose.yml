@@ -32,3 +32,7 @@ services:
       dockerfile: ./Dockerfile.serving
     ports:
       - 8501:8501 
+    command:
+      - --monitoring_config_file=/prometheus.config
+    volumes:
+      - ./prometheus.config:/prometheus.config

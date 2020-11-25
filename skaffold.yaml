@@ -2,10 +2,6 @@ apiVersion: skaffold/v2beta9
 kind: Config
 build:
   artifacts:
-  - image: ml-production
-    context: .
-    docker:
-      dockerfile: Dockerfile
   - image: tf-model
     context: .
     docker:

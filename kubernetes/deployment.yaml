@@ -11,12 +11,25 @@ spec:
     metadata:
       labels:
         app: ml-production
+      annotations:
+        prometheus.io/scrape: 'true'
+        prometheus.io/port: '8501'
+        prometheus.io/path: '/monitoring/prometheus/zmetrics'
     spec:
+      volumes:
+        - name: ml-config 
+          configMap:
+            name: ml-production-deployment
       imagePullSecrets:
         - name: gcr-json-key
       containers:
       - name: tf-model
         image: tf-model
+        volumeMounts:
+          - mountPath: /etc/ml
+            name: ml-config
+        args:
+          - --monitoring_config_file=/etc/ml/prometheus.config
         resources:
           requests:
             memory: "100Mi"
@@ -26,7 +39,6 @@ spec:
             cpu: "1"
         ports:
           - containerPort: 8501
-
 ---
 apiVersion: v1
 kind: Service

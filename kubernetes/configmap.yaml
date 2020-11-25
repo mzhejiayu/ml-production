@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ml-production-deployment
+data:
+  prometheus.config: |
+    prometheus_config {
+      enable: true,
+      path: "/monitoring/prometheus/zmetrics"
+    }
